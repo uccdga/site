@@ -1,0 +1,79 @@
+{% if site.data.settings.recommended.enable == true and site.data.settings.recommended.recommended_tag != null %}
+{% assign recommended_tag = site.data.settings.recommended.recommended_tag %}
+{% assign posts_by_tag = site.tags[recommended_tag] %}
+
+{% if posts_by_tag and posts_by_tag.size > 0 %}
+{% assign posts_by_tag = posts_by_tag | sort: 'date' | reverse %}
+<!-- begin section-recommended -->
+<section class="section section-recommended animate">
+  <div class="container">
+
+    <div class="section__inner">
+      <div class="section__info">
+        <div class="section__head">
+          <h2 class="section__title">
+            {% if posts_by_tag.size <= 4 %}
+            {{ site.data.settings.recommended.recommended_title }}
+            {% else %}
+            <a href="{{ '/tags#' | append: recommended_tag | relative_url }}">{{ site.data.settings.recommended.recommended_title }}</a>
+            {% endif %}
+          </h2>
+          {% if posts_by_tag.size > 4 %}
+          <a class="section__link" href="{{ '/tags#' | append: recommended_tag | relative_url }}">See all</a>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="row">
+        {% for post in posts_by_tag limit: 4 %}
+        <div class="col col-3 col-d-6 col-t-12">
+          <div class="article">
+            <div class="article__inner">
+
+              <div class="article__head">
+                {% if post.image and post.video_embed %}
+                <div class="video-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                    <polygon points="40,30 70,50 40,70"></polygon>
+                  </svg>
+                </div>
+                {% endif %}
+
+                {% if post.image %}
+                <a href="{{ post.url | relative_url }}" class="article__image" aria-hidden="true" tabindex="-1">
+                  <img class="lazy" data-src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                </a>
+                {% endif %}
+              </div>
+
+              <div class="article__content">
+                <h2 class="article__title">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h2>
+                <div class="article__info">
+                  {% assign author = site.authors | where: 'username', post.author | first %}
+                  {% if author %}
+                  <a href="{{ author.url | relative_url }}" class="article__author__image">
+                    <img class="lazy" data-src="{{ author.image | relative_url }}" alt="{{ author.name }}">
+                  </a>
+                  <div class="article__info__bottom">
+                    <span>Written by</span>
+                    <a class="article__author__name" href="{{ author.url | relative_url }}">{{ author.name }}</a>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</section>
+<!-- end section-recommended -->
+{% endif %}
+
+{% endif %}

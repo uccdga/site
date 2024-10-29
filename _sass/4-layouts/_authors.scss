@@ -1,0 +1,277 @@
+/* Authors */
+.authors {
+  .authors__head {
+    margin: 48px 0;
+  }
+
+  .authors__title {
+    font-size: 48px;
+  }
+
+  .authors__info {
+    padding: 24px;
+    margin-bottom: 32px;
+    border-radius: 22px;
+    background: var(--background-alt-color);
+  }
+
+  .authors__image {
+    position: relative;
+    transform: translate(0);
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 12px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: var(--background-color);
+    transition: transform .3s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+    }
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      user-select: none;
+    }
+  }
+
+  .authors__meta {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+  }
+
+  .authors__name {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 1.35;
+    font-weight: 600;
+    margin-right: 4px;
+    margin-bottom: 0;
+
+    .authors__link {
+      text-decoration: underline;
+      text-decoration-color: transparent;
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 3px;
+
+      &:hover {
+        text-decoration-color: var(--link-color-hover);
+      }
+    }
+  }
+
+  .authors__posts__count {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--heading-font-color);
+  }
+
+  .authors__description {
+    font-family: $heading-font-family;
+    font-size: 18px;
+    line-height: 1.35;
+    text-align: center;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .authors__description {
+      font-size: inherit;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .authors__info {
+      border-radius: 16px;
+    }
+
+    .authors__image {
+      margin: 0 auto 8px;
+    }
+
+    .authors__meta {
+      margin-bottom: 12px;
+    }
+  }
+}
+
+/* Section Authors */
+.section-authors {
+  .authors__info {
+    padding: 0 24px;
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .authors__image {
+    background: var(--background-alt-color);
+  }
+
+  @media (max-width: $wide) {
+    .row {
+      justify-content: center;
+    }
+
+    .authors__info {
+      padding: 0;
+    }
+  }
+}
+
+/* Author Page */
+.author {
+  .author__content {
+    margin-bottom: 80px;
+    text-align: center;
+  }
+
+  .author__image {
+    position: relative;
+    transform: translate(0);
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 12px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: var(--background-alt-color);
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      user-select: none;
+    }
+  }
+
+  .author__name {
+    margin-bottom: 4px;
+    font-size: 72px;
+    line-height: 1.1;
+  }
+
+  .author__info {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 13px;
+
+    span {
+      font-size: 16px;
+    }
+  }
+
+  .author__description {
+    max-width: 780px;
+    margin: 0 auto;
+    font-family: $heading-font-family;
+    font-size: 24px;
+    line-height: 1.35;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .author__social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 32px;
+    gap: 16px;
+    line-height: 1;
+
+    .author__social__item {
+      margin-bottom: 0;
+      font-size: 30px;
+      color: var(--link-color);
+    }
+  }
+
+  .author__posts__count {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  @media (max-width: $desktop) {
+    .author__content {
+      margin-bottom: 64px;
+    }
+
+    .author__name {
+      font-size: 52px;
+    }
+
+    .author__description {
+      font-size: 20px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .author__name {
+      font-size: 38px;
+    }
+
+    .author__info {
+      margin-bottom: 16px;
+    }
+
+    .author__social {
+      margin-top: 20px;
+
+      .author__social__item {
+        font-size: 28px;
+      }
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .author__content {
+      margin-bottom: 48px;
+    }
+
+    .author__image {
+      width: 100px;
+      height: 100px;
+    }
+
+    .author__name {
+      font-size: 33px;
+    }
+
+    .author__info {
+      margin-bottom: 12px;
+
+      span {
+        font-size: 14px;
+      }
+    }
+
+    .author__social {
+      gap: 12px;
+
+      .author__social__item {
+        font-size: 24px;
+      }
+    }
+  }
+}

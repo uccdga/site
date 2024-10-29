@@ -1,0 +1,52 @@
+---
+layout: default
+title: Featured
+description: In this section, you'll find the most notable and current highlights from our blog. We've curated the most interesting and important articles that deserve your attention.
+permalink: /featured/
+image: '/images/01.jpg'
+---
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          {% if page.title %}
+          <h1 class="hero__title">{{ page.title }}</h1>
+          {% endif %}
+          {% if page.description %}
+          <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+<!-- begin featured-page -->
+<section class="section featured-page animate">
+  <div class="container">
+    <div class="section__inner">
+      <div class="row">
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+        {% if post.featured == true %}
+        {% assign count = count | plus: 1 %}
+        {% if count == 1 %}
+        <div class="col col-12">
+          {% include article.html class="article--big" %}
+        </div>
+        {% elsif count >= 2 %}
+        <div class="col col-3 col-w-6 col-t-12">
+          {% include article.html %}
+        </div>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end featured-page -->

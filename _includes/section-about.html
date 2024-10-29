@@ -1,0 +1,38 @@
+{% if site.data.settings.about.enable == true %}
+<!-- begin about -->
+<section class="section about animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="about__inner">
+
+          {% if site.data.settings.about.about_image %}
+          <div class="about__image">
+            <img class="lazy" data-src="{{ site.data.settings.about.about_image }}" alt="{{ site.data.settings.about.author_image_alt }}">
+          </div>
+          {% endif %}
+
+          <div class="about__content">
+            {% if site.data.settings.about.about_title %}
+            <h2 class="about__title">{{ site.data.settings.about.about_title }}</h2>
+            {% endif %}
+            {% if site.data.settings.about.about_subtitle %}
+            <p class="about__subtitle">{{ site.data.settings.about.about_subtitle }}</p>
+            {% endif %}
+            {% if site.data.settings.about.about_description %}
+            <div class="about__description">
+              {{ site.data.settings.about.about_description | markdownify }}
+            </div>
+            {% endif %}
+            {% if site.data.settings.about.about_button_text %}
+            <a href="{{ site.data.settings.about.about_button_link | relative_url }}" class="about__button button button--big">{{ site.data.settings.about.about_button_text }}</a>
+            {% endif %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end about -->
+{% endif %}

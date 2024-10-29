@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="page__head">
+    <div class="page__info">
+      <h1 class="page__title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+      <div class="page__description">{{ page.description }}</div>
+      {% endif %}
+    </div>
+
+    {% if page.video_embed %}
+    <div class="page__video">
+      <div class="page__video__wrap">
+        <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+    </div>
+    {% else %}
+
+    {% if page.image %}
+    <div class="page__image">
+      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% if page.image_caption %}
+    <div class="page__image__caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+    {% endif %}
+  </div>
+
+  <!-- begin page -->
+  <article class="page">
+    <div class="page__content">
+      {% if page.toc == true %}
+      <div class="page__toc">
+        <h2 class="page__toc__title">Table of Contents</h2>
+        {% include toc.html html=content ordered=true class="page__toc__list" h_min=2 %}
+      </div>
+      {% endif %}
+
+      {{ content }}
+    </div>
+  </article>
+  <!-- end page -->
+</div>

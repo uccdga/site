@@ -1,0 +1,127 @@
+/* Section About */
+.about__inner {
+  display: flex;
+  align-items: center;
+
+  .about__image {
+    position: relative;
+    height: 634px;
+    max-width: 634px;
+    width: 50%;
+    border-radius: 22px;
+    background-color: var(--background-alt-color);
+    overflow: hidden;
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      border-radius: 22px;
+      object-fit: cover;
+    }
+  }
+
+  .about__content {
+    max-width: 600px;
+    width: 50%;
+    margin-left: auto;
+
+    .about__title {
+      margin-bottom: 20px;
+      font-size: 64px;
+      line-height: 1;
+    }
+
+    .about__subtitle {
+      margin-bottom: 24px;
+      font-family: $heading-font-family;
+      font-size: 24px;
+      line-height: 1.35;
+      color: var(--text-alt-color);
+    }
+
+    .about__description {
+      margin-bottom: 32px;
+      font-family: $heading-font-family;
+      line-height: 1.35;
+
+      p {
+        margin-bottom: 24px;
+      }
+    }
+
+    a:not([class]) {
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 2px;
+      color: var(--heading-font-color);
+    }
+  }
+
+  @media (max-width: $wide) {
+    .about__content {
+      max-width: 440px;
+
+      .about__title {
+        font-size: 42px;
+      }
+    }
+  }
+
+  @media (max-width: $desktop) {
+    flex-direction: column;
+
+    .about__image {
+      height: auto;
+      max-width: 100%;
+      width: 100%;
+      padding-top: 75%;
+      margin-bottom: 32px;
+    }
+
+    .about__content {
+      max-width: 100%;
+      width: 100%;
+
+      .about__subtitle {
+        font-size: 20px;
+      }
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .about__image {
+      border-radius: 16px;
+
+      img {
+        border-radius: 16px;
+      }
+    }
+
+    .about__content {
+      .about__title {
+        margin-bottom: 16px;
+        font-size: 36px;
+      }
+
+      .about__description {
+        margin-bottom: 24px;
+      }
+
+      .about__description p,
+      .about__subtitle {
+        margin-bottom: 16px;
+      }
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .about__content {
+      .about__title {
+        font-size: 32px;
+      }
+    }
+  }
+}

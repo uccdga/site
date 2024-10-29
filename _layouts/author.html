@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<!-- begin author -->
+<section class="section author">
+
+  <div class="container">
+    {% assign post_count = site.posts | where: 'author', page.username %}
+    <div class="author__content">
+
+      <div class="author__image">
+        <img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}">
+      </div>
+
+      <h1 class="author__name">{{ page.name }}</h1>
+
+      <div class="author__info">
+        {% if page.location %}
+        <span class="author__location">
+          from {{ page.location }}
+        </span> •
+        {% endif %}
+        <span class="post-count">
+          {{ post_count.size }}{% if post_count.size < 2 %}Post{% else %} posts{% endif %}
+        </span>
+      </div>
+
+      <div class="author__description">{{ content | markdownify  }}</div>
+
+      <div class="author__social">
+      {% if page.website %}
+        <a class="author__social__item" href="{{ page.website }}" aria-label="Website link" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i></a>
+      {% endif %}
+      {% if page.facebook %}
+        <a class="author__social__item" href="{{ page.facebook }}" aria-label="Facebook link" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
+      {% endif %}
+      {% if page.twitter %}
+        <a class="author__social__item" href="{{ page.twitter }}" aria-label="Twitter link" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
+      {% endif %}
+      {% if page.instagram %}
+        <a class="author__social__item" href="{{ page.instagram }}" aria-label="Instagram link" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
+      {% endif %}
+      {% if page.pinterest %}
+        <a class="author__social__item" href="{{ page.pinterest }}" aria-label="Pinterest link" target="_blank" rel="noopener"><i class="fa-brands fa-pinterest"></i></a>
+      {% endif %}
+      {% if page.mastodon %}
+        <a class="author__social__item" href="{{ page.mastodon }}" aria-label="Mastodon link" target="_blank" rel="noopener"><i class="fa-brands fa-mastodon"></i></a>
+      {% endif %}
+      {% if page.youtube %}
+        <a class="author__social__item" href="{{ page.youtube }}" aria-label="Youtube link" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
+      {% endif %}
+      {% if page.tiktok %}
+        <a class="author__social__item" href="{{ page.tiktok }}" aria-label="Tiktok link" target="_blank" rel="noopener"><i class="fa-brands fa-tiktok"></i></a>
+      {% endif %}
+      </div>
+
+    </div>
+  </div>
+
+  {% if post_count.size >= 1 %}
+  <div class="container">
+    <div class="section__inner">
+      <div class="row animate">
+        {% for post in post_count %}
+        <div class="col col-4 col-d-6 col-t-12">
+          {% include article.html %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+</section>
+<!-- end author -->

@@ -1,0 +1,43 @@
+---
+layout: default
+title: Latest Posts
+description: Here, you’ll discover the latest posts that explore new insights, creative projects, and unique perspectives on the world. Dive in, explore, and uncover something new with every read.
+image: '/images/01.jpg'
+---
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          {% if page.title %}
+          <h1 class="hero__title">{{ page.title }}</h1>
+          {% endif %}
+          {% if page.description %}
+          <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+{% if site.posts.size > 0 %}
+<!-- begin latest-page -->
+<section class="section latest-page animate">
+  <div class="container">
+    <div class="section__inner">
+      <div class="row">
+        {% for post in site.posts %}
+        <div class="col col-4 col-d-6 col-t-12">
+          {% include article.html %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end latest-page -->
+{% endif %}

@@ -1,0 +1,28 @@
+{% if site.data.settings.blog.enable == true %}
+<!-- begin section-posts -->
+<section class="section section-posts animate">
+  <div class="container">
+
+    <div class="section__inner">
+      <div class="section__info">
+        <div class="section__head">
+          <h2 class="section__title"><a href="{{ '/latest' | relative_url }}">{{ site.data.settings.blog.blog_title }}</a></h2>
+          <a class="section__link" href="{{ '/latest' | relative_url }}">See all</a>
+        </div>
+      </div>
+
+      <div class="row grid">
+      {% if site.posts.size > 0 %}
+        {% for post in paginator.posts offset:0 %}
+          {% include article.html class="col col-4 col-d-6 col-t-12 animate grid__post" %}
+        {% endfor %}
+      {% endif %}
+      </div>
+
+      {% include pagination.html %}
+    </div>
+
+  </div>
+</section>
+<!-- end section-posts -->
+{% endif %}

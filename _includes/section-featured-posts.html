@@ -1,0 +1,35 @@
+{% for post in site.posts %}
+  {% if post.featured == true %}
+    {% assign is-featured = true %}
+  {% endif %}
+{% endfor %}
+
+{% if is-featured == true %}
+<!-- begin featured-post -->
+<section class="section featured-post animate">
+  <div class="container">
+    <div class="section__inner">
+
+      <h2 class="screen-reader-text">Featured</h2>
+      <div class="row">
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+        {% if post.featured == true %}
+        {% assign count = count | plus: 1 %}
+        {% if count == 1 %}
+        <div class="col col-12">
+          {% include article.html class="article--big" %}
+        </div>
+        {% elsif count >= 2 %}
+        <div class="col col-3 col-w-6 col-t-12">
+          {% include article.html %}
+        </div>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end featured-post -->
+{% endif %}

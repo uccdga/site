@@ -1,0 +1,124 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="post__head">
+    <div class="post__info">
+
+      <div class="post__head__inner">
+        {% if page.tags.size >= 1 %}
+        <div class="post__tags">
+        {% for tag in page.tags %}
+          <a href="{{ site.baseurl }}/tags#{{ tag }}" class="post__tag">{{ tag }}</a>
+        {% endfor %}
+        </div>
+        {% endif %}
+        <div class="post__date">•
+          <time datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%-b %d, %Y" %}{{ page.date | date: date_format }}</time>
+        </div>
+        <div class="post__minutes">•
+          <span>
+            {% assign words = page.content | number_of_words %}
+            {% if words < 360 %}
+              1 min read
+            {% else %}
+              {{ words | divided_by:180 }} min read
+            {% endif %}
+          </span>
+        </div>
+      </div>
+
+      <h1 class="post__title">{{ page.title | escape }}</h1>
+
+      {% if page.description %}
+      <div class="post__description">{{ page.description }}</div>
+      {% endif %}
+
+      <div class="post__meta">
+        <div class="post__author">
+          {% assign author = site.authors | where: 'username', page.author | first %}
+          {% if author %}
+          <a href="{{ author.url | relative_url }}" class="post__author__image">
+            <img class="lazy" data-src="{{ author.image | relative_url }}" alt="{{ author.name }}">
+          </a>
+          <div class="post__author__bottom">
+            <span>Written by</span>
+            <a class="post__author__name" href="{{ author.url | relative_url }}">{{ author.name }}</a>
+          </div>
+          {% endif %}
+        </div>
+
+        <div class="post__share">
+          {% include share-buttons.html %}
+        </div>
+      </div>
+
+    </div>
+
+    {% if page.video_embed %}
+    <div class="post__video">
+      <div class="post__video__wrap">
+        <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+    </div>
+    {% else %}
+
+    {% if page.image %}
+    <div class="post__image">
+      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% if page.image_caption %}
+    <div class="post__image__caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+    {% endif %}
+  </div>
+
+  <!-- begin post -->
+  <article class="post">
+    <div class="post__content">
+      {% if page.toc == true %}
+      <div class="post__toc">
+        <h2 class="post__toc__title">Table of Contents</h2>
+        {% include toc.html html=content ordered=true class="post__toc__list" h_min=2 %}
+      </div>
+      {% endif %}
+
+      {{ content }}
+    </div>
+  </article>
+  <!-- end post -->
+</div>
+
+
+{% if author %}
+<div class="container">
+  <div class="card-author">
+    <div class="card-author__media">
+      {% if author.image %}
+      <a class="card-author__image" href="{{ author.url }}">
+        <img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}">
+      </a>
+      {% endif %}
+    </div>
+
+    <div class="card-author__content">
+      <div class="card-author__role">Written by</div>
+        {% if author.name %}
+        <h3 class="card-author__name"><a href="{{ author.url }}" class="card-author__link">{{ author.name }}</a></h3>
+        {% endif %}
+        {% if author.content %}
+        <p class="card-author__description">{{ author.content }}</p>
+        {% endif %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if site.data.settings.disqus_identifier %}
+  {% include disqus-comments.html %}
+{% endif %}
+
+{% include related-posts.html %}

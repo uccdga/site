@@ -1,0 +1,80 @@
+---
+layout: default
+title: Explore Our Topics
+description: Explore our Topics page to easily navigate the wide range of content available on our blog. This is your gateway to discovering the diverse conversations and ideas that our blog covers.
+permalink: /tags/
+---
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          {% if page.title %}
+          <h1 class="hero__title">{{ page.title }}</h1>
+          {% endif %}
+          {% if page.description %}
+          <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+<!-- begin tags -->
+<section class="tags">
+
+  <div class="tag__head">
+    <div class="container">
+      <div class="row">
+      {% for item in (0..site.tags.size) %}
+        {% unless forloop.last %}
+          {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+          <div class="col col-4 col-d-6 col-t-12">
+            <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link">{{ this_word }} ({{ site.tags[this_word].size }})</a>
+          </div>
+        {% endunless %}
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+  <div class="tags__inner">
+
+    <div class="container">
+      <div class="section__info">
+        <div class="section__head">
+          <h2 class="section__title" id="{{ this_word | cgi_escape | url_decode }}">{{ this_word }}</h2>
+          <a class="section__link top__link" href="#top">Return to top</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="section__inner">
+        <div class="row">
+        {% for post in site.tags[this_word] %}
+          {% if post.title != null %}
+          <div class="col col-4 col-d-6 col-t-12">
+            {% include article.html %}
+          </div>
+          {% endif %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+{% endunless %}
+{% endfor %}
+
+</section>
+<!-- end tags -->
