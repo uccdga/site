@@ -6,7 +6,7 @@ location: Sydney
 website:
 facebook: https://facebook.com
 twitter: https://twitter.com
-instagram: https://www.instagram.com
+instagram: 
 pinterest:
 mastodon:
 youtube:

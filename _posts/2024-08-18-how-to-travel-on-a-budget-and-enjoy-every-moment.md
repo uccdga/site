@@ -7,7 +7,7 @@ author: carla
 image: '/images/02.jpg'
 video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
 tags: [Lifestyle]
-featured: true
+featured: false
 toc: true
 ---
 
