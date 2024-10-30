@@ -1,10 +1,10 @@
 #-------------------------------
 # Site Settings
-title: Nomod
+title: The United Church of Canandaigua
 description: Nomod is a multipurpose Jekyll blog theme
-logo: # You can add own logo. For example "/images/logo.png".
+logo: /images/uc-logo.png # You can add own logo. For example "/images/logo.png".
 logo_dark:
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -90,7 +90,7 @@ authors:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_title: Stay Inspired Weekly. Your Friendly Dose of Tips & Insights!
   mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
@@ -130,7 +130,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
