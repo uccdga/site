@@ -4,9 +4,9 @@ name: Richard Miller
 image: '/images/101.jpg'
 location: Houston
 website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+facebook: https://www.facebook.com/wadesallen
+twitter: https://x.com/wadeallen
+instagram: https://www.instagram.com/wadechristy
 pinterest:
 mastodon:
 youtube:
