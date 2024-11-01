@@ -16,14 +16,11 @@ layout: default
       <h1 class="author__name">{{ page.name }}</h1>
 
       <div class="author__info">
-        {% if page.location %}
+        {% if page.position %}
         <span class="author__location">
-          from {{ page.location }}
-        </span> •
-        {% endif %}
-        <span class="post-count">
-          {{ post_count.size }}{% if post_count.size < 2 %}Post{% else %} posts{% endif %}
+          {{ page.position }}
         </span>
+        {% endif %}
       </div>
 
       <div class="author__description">{{ content | markdownify  }}</div>

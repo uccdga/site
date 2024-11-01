@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staff
-description: Welcome to our Authors page, where you can get to know the talented individuals behind the words and ideas that shape our blog.
+description: Our staff at The United Church bring diverse gifts and talents that enrich every aspect of our ministry. Each team member plays a unique role in serving our community and advancing our mission.
 permalink: /staff/
 image: '/images/01.jpg'
 ---
@@ -30,19 +30,16 @@ image: '/images/01.jpg'
   <div class="container">
     <div class="section__inner">
       <div class="row">
-        {% for author in site.authors %}
-        {% assign post_count = site.posts | where:"author", author.username %}
+        {% assign sorted_authors = site.authors | sort: 'order' %}
+        {% for author in sorted_authors %}
         <div class="col col-4 col-w-6 col-t-12">
           <div class="authors__info">
             <a class="authors__image" href="{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a>
             <div class="authors__meta">
               <h2 class="authors__name"><a class="authors__link" href="{{ author.url }}">{{ author.name }}</a></h2>
-              {% if post_count.size >= 1 %}
-              <span class="authors__posts__count">({{ post_count.size }})</span>
-              {% endif %}
             </div>
-            {% if author.content %}
-            <div class="authors__description">{{ author.content }}</div>
+            {% if author.position %}
+            <div class="authors__description">{{ author.position }}</div>
             {% endif %}
           </div>
         </div>

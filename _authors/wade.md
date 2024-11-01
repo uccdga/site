@@ -2,7 +2,8 @@
 username: wade
 name: Wade Allen
 image: '/images/101.jpg'
-location: Pastor
+position: Pastor
+order: 1
 website: https://wadeallen.me
 facebook: https://www.facebook.com/wadesallen
 twitter: https://x.com/wadeallen

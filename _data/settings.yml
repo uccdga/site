@@ -26,7 +26,7 @@ menu_settings:
       - url: "/elements/"
         title: "Elements"
       - url: "/tags/"
-        title: "Topics"
+        title: "News"
     - title: "About"
       url: "/about/"
 
