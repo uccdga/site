@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "The United Church of Canandaigua",
+  "short_name": "The United Church",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
