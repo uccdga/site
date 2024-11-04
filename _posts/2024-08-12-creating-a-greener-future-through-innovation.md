@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Creating a Greener Future Through Innovation
-description: As environmental concerns grow, sustainable design is becoming increasingly important. This article examines the principles of  design, the materials and methods used.
-date: 2024-08-12 15:01:35 +0300
-author: richard
+title: Test Post from Wade
+description: This is a test description
+date: 2024-11-03
+author: wade
 image: '/images/06.jpg'
-video_embed: https://www.youtube.com/embed/TumrA0XsX0A?si=CpIToREi6CEh1KFu
-tags: [Design]
-featured: true
-toc: true
+tags: [children, youth, test]
 ---
 
 As the world faces the consequences of climate change, pollution, and resource depletion, the call for a greener future has never been louder. The environmental challenges we face today require innovative solutions that not only reduce our ecological footprint but also promote sustainable growth. Creating a greener future isn’t just about limiting damage; it’s about harnessing the power of technology, science, and forward-thinking design to protect the planet for future generations.
