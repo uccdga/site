@@ -1,0 +1,67 @@
+---
+layout: default
+title: What's Going On
+description: Stay updated with the latest news about our church ministries and the exciting opportunities to get involved. Explore how you can engage, serve, and grow with us in every ministry initiative.
+image:
+---
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          {% if page.title %}
+          <h1 class="hero__title">{{ page.title }}</h1>
+          {% endif %}
+          {% if page.description %}
+          <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+<!-- begin tags -->
+<section class="tags">
+
+  <div class="tag__head">
+    <div class="container">
+      <div class="row">
+          <div class="col col-4 col-d-6 col-t-12">
+            <a href="https://uccdga.churchcenter.com/calendar?view=month" class="link_button" target="_blank">Calendar</a>
+          </div>
+          <div class="col col-4 col-d-6 col-t-12">
+            <a href="/lamplighter" class="link_button">Newsletter</a>
+          </div>
+          <div class="col col-4 col-d-6 col-t-12">
+            <a href="/bulletins" class="link_button">Bulletins</a>
+          </div>
+      </div>
+    </div>
+  </div>
+
+
+</section>
+<!-- end tags -->
+
+
+{% if site.posts.size > 0 %}
+<!-- begin latest-page -->
+<section class="section latest-page animate">
+  <div class="container">
+    <div class="section__inner">
+      <div class="row">
+        {% for post in site.posts %}
+        <div class="col col-4 col-d-6 col-t-12">
+          {% include article.html %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end latest-page -->
+{% endif %}

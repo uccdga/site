@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Latest Posts
-description: Here, you’ll discover the latest posts that explore new insights, creative projects, and unique perspectives on the world. Dive in, explore, and uncover something new with every read.
-image: '/images/01.jpg'
+title: Lamplighter
+description: Welcome to The Lamplighter, our church newsletter, where you’ll find all the latest updates, stories, and news from our congregation. Here, you can access current and past editions, stay informed about upcoming events, and learn about the impact of our ministries. Explore and stay connected with our church family through The Lamplighter.
+permalink: /lamplighter/
+image: 
 ---
 
 <!-- begin hero -->
@@ -24,20 +25,21 @@ image: '/images/01.jpg'
 </section>
 <!-- end hero -->
 
-{% if site.posts.size > 0 %}
-<!-- begin latest-page -->
-<section class="section latest-page animate">
+<!-- begin videos-page -->
+<section class="section videos-page animate">
+   {% assign tag = "lamplighter" %}
   <div class="container">
     <div class="section__inner">
       <div class="row">
         {% for post in site.posts %}
+         {% if post.tags contains tag %}
         <div class="col col-4 col-d-6 col-t-12">
           {% include article.html %}
         </div>
+        {% endif %}
         {% endfor %}
       </div>
     </div>
   </div>
 </section>
-<!-- end latest-page -->
-{% endif %}
+<!-- end videos-page -->
