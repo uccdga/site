@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Videos
-description: You can watch recordings of our recent services. Whether you missed a service or want to revisit a sermon, these videos offer a way to stay connected with our community and grow in your faith. Join us in worship, wherever you are!
-permalink: /video/
+title: Bulletin
+description: Welcome to our Weekly Worship Bulletins page. Here, you can download the latest bulletins for our upcoming services, which include important details such as sermon themes, prayer requests, announcements, and more. These bulletins are designed to guide our worship and keep you connected with our community. Whether you're joining us in person or participating remotely, we invite you to use these resources to enrich your worship experience.
+permalink: /bulletin/
 image: 
 ---
 
@@ -27,12 +27,12 @@ image:
 
 <!-- begin videos-page -->
 <section class="section videos-page animate">
-  {% assign sorted = site.posts | where_exp: 'post', "post.video_embed != nil" %}
+   {% assign tag = "bulletin" %}
   <div class="container">
     <div class="section__inner">
       <div class="row">
-        {% for post in sorted %}
-        {% if post.video_embed %}
+        {% for post in site.posts %}
+         {% if post.tags contains tag %}
         <div class="col col-4 col-d-6 col-t-12">
           {% include article.html %}
         </div>
