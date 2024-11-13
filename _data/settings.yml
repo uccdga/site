@@ -45,6 +45,8 @@ menu_settings:
           title: "Videos"
         - url: "/worship/"
           title: "Description"
+        - url: "/bulletin"
+          title: "Bulletins"
 
 
 # Call to action button
