@@ -24,7 +24,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:slug
+    permalink: /:year-:month-:day-:title/
   authors:
     output: true
     permalink: /:name
