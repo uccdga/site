@@ -4,7 +4,7 @@ title: 'Family Ministry Update'
 description:
 date: 2024-11-17
 author: deb
-image: '/images/unsplash/family-min-update-12-2024.jpg'
+image: '/images/unsplash/2024-11-17-family-ministry-update.jpg'
 tags: [family]
 featured: false
 toc: false

@@ -4,7 +4,7 @@ title: "Boyce Discernment Informational Meeting"
 description: Join us on Sunday, January 12, during the Sunday School hour (9:45–10:45 AM) for a special meeting where the Boyce Discernment Team will present their work on how to best use a significant donation given to The United Church in 2023. This meeting will provide an opportunity for the congregation to hear insights from the discernment team, offer feedback, and help shape how this gift will support the church and community. 
 date: 2024-11-13
 author: wade
-image: '/images/unsplash/info-meeting.jpg'
+image: '/images/unsplash/2024-11-13-informational-meeting.jpg'
 tags: [pastor, news]
 featured: false
 toc: false

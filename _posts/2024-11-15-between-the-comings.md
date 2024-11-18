@@ -3,7 +3,7 @@ layout: post
 title: "Between the Comings: Anticipating Christ in Advent"
 date: 2024-11-15
 author: wade
-image: '/images/unsplash/advent-candle.jpg'
+image: '/images/unsplash/2024-11-15-between-the-comings.jpg'
 tags: [pastor]
 ---
 

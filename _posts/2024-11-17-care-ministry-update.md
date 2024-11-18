@@ -4,7 +4,7 @@ title: 'Care Ministry Update'
 description:
 date: 2024-11-17
 author: christy
-image: '/images/unsplash/care-min-update-2024-12.jpg'
+image: '/images/unsplash/2024-11-17-care-ministry-update.jpg'
 tags: [care]
 featured: false
 toc: false
