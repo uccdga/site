@@ -23,6 +23,8 @@ menu_settings:
         title: "History"
       - url: "/giving/"
         title: "Giving"
+      - url: "/about/"
+        title: "FAQs"
     - title: "Ministries"
       submenu:
         - url: "/family/"
@@ -97,8 +99,8 @@ about:
     We hope you will visit and learn more about our congregation. Please take a few minutes to read more about who we are and how we understand what it means to live out our faith.
   about_image: "/images/ucc-building.jpg"
   about_image_alt: The United Church
-  about_button_text:
-  about_button_link: 
+  about_button_text: Read More
+  about_button_link: /about/
 
 
 #-------------------------------
