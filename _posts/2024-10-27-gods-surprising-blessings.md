@@ -3,8 +3,7 @@ layout: post
 title: "God's Surprising Blessings"
 description:
 date: 2024-10-27
-author: admin
-image: '/images/video/2024-10-27.jpg'
+author: wade
 video_embed: FDbfyJFAcB4
 tags: [video]
 ---

@@ -3,8 +3,7 @@ layout: post
 title: "Living in God’s Abundant Provision"
 description: 
 date: 2024-11-10
-author: admin
-image: '/images/video/2024-11-10.jpg'
+author: wade
 video_embed: zHa6rP6QY4E
 tags: [video]
 ---

@@ -3,8 +3,7 @@ layout: post
 title: 'The King’s Invitation: Responding with Gratitude'
 description:
 date: 2024-11-17
-author: admin
-image: '/images/video/2024-11-17.jpg'
+author: wade
 video_embed: OI2DkJNwgFg
 tags: [video]
 ---

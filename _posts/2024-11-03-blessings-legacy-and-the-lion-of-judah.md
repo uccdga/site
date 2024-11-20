@@ -3,8 +3,7 @@ layout: post
 title: 'Blessings, Legacy, and the Lion of Judah'
 description:
 date: 2024-11-03
-author: admin
-image: '/images/video/2024-11-03.jpg'
+author: wade
 video_embed: 28QHWCR0vnU
 tags: [video]
 ---
