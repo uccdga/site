@@ -5,7 +5,7 @@ description:
 date: 2024-10-27
 author: admin
 image: '/images/video/2024-10-27.jpg'
-video_embed: 'https://www.youtube.com/embed/FDbfyJFAcB4?si=JIDTWEFJscNDhZXw'
+video_embed: FDbfyJFAcB4
 tags: [video]
 ---
 
