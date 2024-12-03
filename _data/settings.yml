@@ -25,6 +25,8 @@ menu_settings:
         title: "Giving"
       - url: "/about/"
         title: "FAQs"
+      - url: "/building/"
+        title: Building
     - title: "Ministries"
       submenu:
         - url: "/family/"
@@ -35,8 +37,6 @@ menu_settings:
           title: "Missions"
         - url: "/church-life/"
           title: "Church Life"
-        - url: "/operations/"
-          title: "Operations"
         - url: "/worship/"
           title: "Worship"
     - title: "Sunday Service"
