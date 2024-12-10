@@ -5,7 +5,7 @@ description:
 date: 2024-12-10
 author: wade
 image: '/images/unsplash/2024-12-10-worship-schedule-and-readings-for-december.jpg'
-tags: [tag]
+tags: [worship]
 featured: false
 toc: false
 ---
