@@ -1,0 +1,54 @@
+name: Build and Deploy Jekyll Site
+
+# Trigger the workflow on pushes to the main branch and on pull requests to the main branch
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Run on the latest Ubuntu
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Step 2: Set up Ruby environment
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'  # Use the Ruby version that your site requires
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      # Step 4: Build the Jekyll site
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # Step 5: Deploy to GitHub Pages (main branch)
+      - name: Deploy to GitHub Pages
+        if: github.event_name == 'push' # Only deploy on push to main
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub provides this token automatically
+          publish_dir: ./_site  # The directory to publish to GitHub Pages
+
+      # Step 6: Deploy preview to GitHub Pages (for pull requests)
+      - name: Deploy Preview (Pull Request)
+        if: github.event_name == 'pull_request'  # Only deploy for pull requests
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages  # Publish to a different branch
+          user_name: 'github-actions'  # Set user name for the commit
+          user_email: 'github-actions@github.com'  # Set user email for the commit
