@@ -44,5 +44,30 @@ layout: default
       {{ content }}
     </div>
   </article>
-  <!-- end page -->
+
+<!-- Begin Articles Section -->
+{% if page.articles %}
+
+          <!-- begin articles -->
+          <section class="section videos-page animate">
+            
+             {% assign tag =  page.articles %}
+            <div class="container">
+              <div class="section__inner">
+                <div class="row">
+                  {% for post in site.posts %}
+                   {% if post.tags contains tag %}
+                  <div class="col col-4 col-d-6 col-t-12">
+                    {% include article.html %}
+                  </div>
+                  {% endif %}
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </section>
+
+{% endif %}
+
+
 </div>

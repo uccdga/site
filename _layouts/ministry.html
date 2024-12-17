@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="{% if page.url == '/' %}home-page{% endif %}">
+
+  {% if site.data.settings.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  <!-- begin global wrap -->
+  <div class="global-wrap">
+
+    {% include header.html %}
+
+    <!-- begin content -->
+    <main class="content" aria-label="Content">
+      <!-- begin hero -->
+          <section class="hero">
+            <div class="container">
+              <div class="row">
+                <div class="col col-12">
+                  <div class="hero__inner">
+                    {% if page.title %}
+                    <h1 class="hero__title">{{ page.title }}</h1>
+                    {% endif %}
+                    {% if page.description %}
+                    <p class="hero__description">{{ page.description }}</p>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- end hero -->
+
+          {% if page.buttons %}
+
+          {% include {{ page.buttons }} %}
+
+          {% endif %}
+
+
+          <!-- begin articles -->
+          <section class="section videos-page animate">
+             {% assign tag =  page.tag %}
+            <div class="container">
+              <div class="section__inner">
+                <div class="row">
+                  {% for post in site.posts %}
+                   {% if post.tags contains tag %}
+                  <div class="col col-4 col-d-6 col-t-12">
+                    {% include article.html %}
+                  </div>
+                  {% endif %}
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </section>
+
+    </main>
+    <!-- end content -->
+
+    {% include section-subscribe.html %}
+
+    {% include footer.html %}
+  </div>
+  <!-- end global wrap -->
+
+  <script src="{{ '/js/scripts.js' | relative_url }}"></script>
+  <script src="{{ '/js/common.js' | relative_url }}"></script>
+</body>
+
+</html>
