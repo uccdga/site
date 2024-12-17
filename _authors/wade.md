@@ -1,7 +1,7 @@
 ---
 username: wade
 name: Wade Allen
-image: '/images/101.jpg'
+image: '/images/staff/wade-allen.jpg'
 position: Pastor
 order: 1
 website: https://wadeallen.me
