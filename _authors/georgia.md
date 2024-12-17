@@ -1,7 +1,7 @@
 ---
 username: georgia
 name: Georgia Sperano
-image: '/images/101.jpg'
+image: '/images/staff/georgia-sperano.jpg'
 position: Choir Director
 order: 9
 website:

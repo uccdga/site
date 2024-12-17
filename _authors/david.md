@@ -1,7 +1,7 @@
 ---
 username: david
 name: David Kraft
-image: '/images/101.jpg'
+image: '/images/staff/david-kraft.jpg'
 position: Organist
 order: 8
 website:

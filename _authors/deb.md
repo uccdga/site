@@ -1,7 +1,7 @@
 ---
 username: deb
 name: Deb Marshall
-image: '/images/101.jpg'
+image: '/images/staff/deb-marshall.jpg'
 position: Family Ministries Director
 order: 3
 website:

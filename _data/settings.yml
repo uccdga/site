@@ -97,7 +97,7 @@ about:
     Our mission is, That All Might Know, Love, and Follow the Lord Jesus Christ as Their Personal Lord and Savior.
 
     We hope you will visit and learn more about our congregation. Please take a few minutes to read more about who we are and how we understand what it means to live out our faith.
-  about_image: "/images/UC24_263.jpg"
+  about_image: "/images/UC24_264.jpg"
   about_image_alt: The United Church
   about_button_text: Read More
   about_button_link: /about/
@@ -141,7 +141,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: your@email.com # Add your form_id
+  form_id: secretary@uccdga.org # Add your form_id
   title: Contact Us
   description: Nomod comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
   button_text: Send now

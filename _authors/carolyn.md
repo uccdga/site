@@ -1,7 +1,7 @@
 ---
 username: carolyn
 name: Carolyn Russell
-image: '/images/101.jpg'
+image: '/images/staff/carolyn-russell.jpg'
 position: Office Manager
 order: 5
 website:

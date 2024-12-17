@@ -1,7 +1,7 @@
 ---
 username: mark
 name: Mark Slomski
-image: '/images/101.jpg'
+image: '/images/staff/mark-slomski.jpg'
 position: Pastor of Youth and Adult Ministry
 order: 2
 website:

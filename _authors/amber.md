@@ -1,7 +1,7 @@
 ---
 username: Amber
 name: Amber
-image: '/images/101.jpg'
+image: '/images/staff/amber-bixby.jpg'
 position: Custodian
 order: 10
 website:
