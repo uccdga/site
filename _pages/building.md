@@ -6,6 +6,8 @@ permalink: /building/
 image: 
 ---
 
+![Building](/images/UC24_554.jpg)
+
 ## The Building
 
 Our sanctuary, built in 1871, is a beautiful example of Gothic Revival architecture. Gothic churches were designed to point toward God, with elements that inspire worshippers to look up—both physically and spiritually—toward heaven. The architecture features:
@@ -26,6 +28,8 @@ Every element of our sanctuary speaks to God’s presence and His story. The arc
 
 ### The Reredos
 
+![Greeting](/images/UC24_516.jpg)
+
 The reredos, the decorated part of the wall behind the chancel, is designed to help us sense that God is confronting us in the sanctuary—ready to hear our prayers and bless us. Key features include:
 
 - **Candles on Either Side of the Cross**: These candles shed light on the carved open Bibles above, reminding us of God's revelation through Christ and His Word.
@@ -44,6 +48,8 @@ The reredos, the decorated part of the wall behind the chancel, is designed to h
 
 ### The Communion Table
 
+![Greeting](/images/UC24_213.jpg)
+
 The communion table is a powerful symbol of the sacrament of the Lord’s Supper. It proclaims our oneness with Christ and with one another, reminding us of our common fellowship in Him.
 
 ### The Baptisteries
@@ -56,6 +62,8 @@ The pulpit and lectern serve as the places where God’s Word is read, prayer is
 
 ## The Stained Glass Windows
 
+![Greeting](/images/UC24_522.jpg)
+
 The stained glass windows were originally designed to keep the sacred space holy and tell the story of God's nature. The original windows were destroyed in a hailstorm, but many have been restored.
 
 ### Rose Window
@@ -65,6 +73,8 @@ Originally above the main entrance, this window symbolizes the coming of the Mes
 ### Narthex Window
 
 The Gabriel stained glass window, installed in 2001, was placed in what was originally the entrance of the church. 
+
+![Greeting](/images/UC24_526.jpg)
 
 ### Stained Glass Panels between the Sanctuary and Narthex
 
@@ -93,16 +103,5 @@ These windows represent the Triune God and His covenants of Law and Grace. The p
 3. **Christ**: Represented by Greek letters, showing Jesus as the beginning and the end.
 4. **Descending Dove**: Symbolizes the Holy Spirit.
 5. **Covenant of Work and Grace**: The scroll of the law and the Ark of the Covenant represent God’s justice and mercy.
-
-## Additional Historical Information
-
-The history of The United Church spans back to the 19th century. In 1870, Presbyterians bought the Barlow property and laid the cornerstone in 1871. The church has had 15 pastors, with Rev. Jim Kerr serving the longest tenure at 28 years. The church was renovated and renamed The United Church in 1961, reflecting the unity between the Presbyterian and American Baptist congregations. Significant events include:
-
-- **1942**: The American Baptist Church was destroyed by fire.
-- **1947**: Baptists began worshipping jointly with the Presbyterians.
-- **1973**: The Christian Education Building was erected.
-- **1990**: Rev. James Kerr began his pastorate.
-- **2015**: A new pipe organ was completed.
-- **2018-2019**: A Building Preservation Project restored windows, brickwork, and the front door.
 
 We are proud to celebrate the beauty, history, and rich symbolism of our building, which continues to inspire and guide us as we worship and serve the community.

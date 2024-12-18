@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Expectant Hearts: Waiting on God'
+title: Sunday Service
 date: 2024-12-08
 author: mark
 video_embed: uLVw2uWtkWU

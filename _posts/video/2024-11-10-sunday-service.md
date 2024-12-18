@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living in God’s Abundant Provision"
+title: Sunday Service
 description: 
 date: 2024-11-10
 author: wade

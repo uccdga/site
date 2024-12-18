@@ -3,7 +3,7 @@ layout: page
 title: About Us
 description: Looking for more information about how the church is structured, the beliefs, or what you need to know the first time you come to The United Church
 permalink: /about/
-image: '/images/church/pews.jpg'
+image: '/images/UC24_256.jpg'
 image_caption:
 ---
 
@@ -15,6 +15,8 @@ We are a united community of faith affiliated with two denominations—Presbyter
 ---
 
 ## Service Times and Sunday School
+
+![Sunday School](/images/UC24_153.jpg)
 
 We hold two services every Sunday:
 - **8:45 am** and **11:00 am** (from the Sunday after Labor Day until the Sunday before Memorial Day)
@@ -28,6 +30,8 @@ Sunday School is offered for all ages at **9:45 am** from mid-September through 
 
 We hope the information below helps you know what to expect as a visitor to The United Church. Above all, we hope you feel warmly welcomed and comfortable while you are here. Please let us know if you have any other questions.
 
+![Greeting](/images/UC24_414.jpg)
+
 ### What time should I arrive?
 
 We recommend arriving about 10 minutes before the service to allow time to walk to the sanctuary, be greeted, and find a seat. If you have children, they may worship with you or you can take them to our nursery. For nursery use, you may want a bit of extra time to get them settled before the service.
@@ -37,6 +41,8 @@ We recommend arriving about 10 minutes before the service to allow time to walk 
 There are no special visitor tags or introductions, so don’t worry about being singled out. It’s possible someone may greet you before or after the service. If you’d like more information, feel free to ask or fill out a visitor card found in the pew and place it in the offering plate.
 
 ### What is the service like?
+
+![Service](/images/UC24_384.jpg)
 
 When you enter the sanctuary, you’ll be warmly greeted and handed a bulletin with announcements, a service outline, Scripture references, and the sermon title. Feel free to sit wherever you are comfortable.
 
@@ -52,6 +58,8 @@ Here’s what you can expect at a typical service:
 
 Special elements such as baptisms, welcoming new members, and commissioning prayers for missions may also be included.
 
+![Communion](/images/UC24_350.jpg)
+
 **Communion** is offered on the first Sunday of every month. The elders will distribute bread and grape juice, and we partake together to remember Christ’s sacrifice. Communion is open to all who profess faith in Jesus Christ.
 
 ### How long is the service?
@@ -64,11 +72,15 @@ Most people wear casual business attire, though you’ll see a range from jeans 
 
 ### What about my kids?
 
+![Children](/images/UC24_168.jpg)
+
 - **Birth – 5 years**: Children are welcome to stay in the service or visit the nursery before or during the service.
 - **K - 2nd grade**: Kids can attend part of the service with their family and may be dismissed for Children’s Time (during the 11:00 am service and 9:30 am summer service).
 - **3rd - 5th grade**: 3rd graders receive a Bible and can attend “Learning to Worship” classes to help them understand the service. Once completed, they remain with their families during worship.
 
 **Middle School and High School (6th - 12th grade)** students are encouraged to join the service with their families or sit with other students.
+
+![Youth](/images/UC24_062.jpg)
 
 ---
 
@@ -88,6 +100,8 @@ For questions, contact our church office at (585) 394-0503 or visit us Monday th
 ## Who We Are
 
 The United Church connects with two denominations and various ministries. Through our Mission Budget (separate from our Operating Budget), over a third of our yearly offerings go to ministries outside our walls. Membership in The United Church can be Presbyterian, Baptist, or “United.”
+
+![Greeting](/images/UC24_519.jpg)
 
 ### Presbyterians
 

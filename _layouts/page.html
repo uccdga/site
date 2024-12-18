@@ -31,12 +31,6 @@ layout: default
     {% endif %}
   </div>
 
-  {% if page.buttons %}
-
-  {% include {{ page.buttons }} %}
-
-  {% endif %}
-
   <!-- begin page -->
   <article class="page">
     <div class="page__content">
@@ -45,17 +39,34 @@ layout: default
         <h2 class="page__toc__title">Table of Contents</h2>
         {% include toc.html html=content ordered=true class="page__toc__list" h_min=2 %}
       </div>
-      {% endif %}
+      {% endif %}     
 
       {{ content }}
+
     </div>
   </article>
 
-<!-- Begin Articles Section -->
 {% if page.articles %}
 
-{% include section-posts-tags.html %}
+<div class="row grid">
+  {% if site.posts.size > 0 %}
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.tags contains page.articles %}
+        {% include article.html class="col col-4 col-d-6 col-t-12 animate grid__post" %}
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == 6 %}
+          {% break %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>
 
+ {% endif %}
+
+ {% if page.buttons %}
+{% include {{ page.buttons }}-buttons.html%}
 {% endif %}
 
 

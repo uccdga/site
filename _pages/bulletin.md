@@ -5,5 +5,6 @@ description: Welcome to our Weekly Worship Bulletins page. Here, you can downloa
 permalink: /bulletin/
 image: 
 articles: bulletin
+buttons: publication
 ---
 

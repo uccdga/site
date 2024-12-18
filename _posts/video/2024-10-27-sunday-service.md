@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "God's Surprising Blessings"
+title: Sunday Service
 description:
 date: 2024-10-27
 author: wade

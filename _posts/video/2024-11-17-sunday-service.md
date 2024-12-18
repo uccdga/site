@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The King’s Invitation: Responding with Gratitude'
+title: Sunday Service
 description:
 date: 2024-11-17
 author: wade

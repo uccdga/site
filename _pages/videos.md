@@ -5,6 +5,7 @@ description: You can watch recordings of our recent services. Whether you missed
 permalink: /video/
 image: 
 articles: video
+buttons: video
 ---
 
 

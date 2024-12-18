@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blessings, Legacy, and the Lion of Judah'
+title: Sunday Service
 description:
 date: 2024-11-03
 author: wade

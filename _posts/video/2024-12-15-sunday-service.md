@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joy in Every Season'
+title: Sunday Service
 date: 2024-12-15
 author: wade
 video_embed: Nd1_K876Vho

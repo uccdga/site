@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Living with Urgency and Expectation: Preparing for Christ’s Return'
+title: Sunday Service
 date: 2024-12-01
 author: wade
 video_embed: z-dzB_EmzM0

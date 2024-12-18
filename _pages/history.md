@@ -21,3 +21,15 @@ First Presbyterian Church in Canandaigua was organized in 1870 and has worshiped
 
 {: .note }
 Baptists and Presbyterians joined together in 1947 and officially became The United Church in 1961.
+
+## Additional Historical Information
+
+The history of The United Church spans back to the 19th century. In 1870, Presbyterians bought the Barlow property and laid the cornerstone in 1871. The church has had 15 pastors, with Rev. Jim Kerr serving the longest tenure at 28 years. The church was renovated and renamed The United Church in 1961, reflecting the unity between the Presbyterian and American Baptist congregations. Significant events include:
+
+- **1942**: The American Baptist Church was destroyed by fire.
+- **1947**: Baptists began worshipping jointly with the Presbyterians.
+- **1973**: The Christian Education Building was erected.
+- **1990**: Rev. James Kerr began his pastorate.
+- **2015**: A new pipe organ was completed.
+- **2018-2019**: A Building Preservation Project restored windows, brickwork, and the front door.
+- **2021**: Rev. Dr. Wade Allen began his pastorate.

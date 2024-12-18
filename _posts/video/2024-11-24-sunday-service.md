@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Thankful Heart'
+title: Sunday Service
 description:
 date: 2024-11-24
 author: wade
