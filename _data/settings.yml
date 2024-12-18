@@ -141,9 +141,9 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: secretary@uccdga.org # Add your form_id
+  form_id: movqozej # Add your form_id
   title: Contact Us
-  description: Nomod comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+  description: If you have any questions about our church or would like more information, feel free to contact us—we’d be happy to help!
   button_text: Send now
 
 # NOTE

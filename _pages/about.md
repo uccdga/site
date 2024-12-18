@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: Looking for more information about how the church is structured, the beliefs, or what you need to know the first time you come to The United Church
+description: Here is where you find for more information about how the church is structured, the beliefs, or what you need to know the first time you come to The United Church.
 permalink: /about/
 image: '/images/UC24_256.jpg'
 image_caption:
@@ -47,20 +47,22 @@ There are no special visitor tags or introductions, so don’t worry about being
 When you enter the sanctuary, you’ll be warmly greeted and handed a bulletin with announcements, a service outline, Scripture references, and the sermon title. Feel free to sit wherever you are comfortable.
 
 Here’s what you can expect at a typical service:
-- Announcements and greeting one another
 - Singing songs and hymns
+- Special Music (instruments, solos, children's choir, teen choir, men's quartet, ensembles and more)
+- Choir
 - Prayers
 - Children’s Message
 - Scripture Reading
 - Sermon (about 20 minutes)
+- Communion
 - Offering
 - Benediction
 
 Special elements such as baptisms, welcoming new members, and commissioning prayers for missions may also be included.
 
-![Communion](/images/UC24_350.jpg)
-
 **Communion** is offered on the first Sunday of every month. The elders will distribute bread and grape juice, and we partake together to remember Christ’s sacrifice. Communion is open to all who profess faith in Jesus Christ.
+
+![Communion](/images/UC24_350.jpg)
 
 ### How long is the service?
 
@@ -68,7 +70,7 @@ Each service lasts about 1 hour.
 
 ### What should I wear?
 
-Most people wear casual business attire, though you’ll see a range from jeans to suits. Please come as you are.
+Most people wear casual business attire, though you’ll see a range from jeans to suits/dresses. Please come as you are.
 
 ### What about my kids?
 

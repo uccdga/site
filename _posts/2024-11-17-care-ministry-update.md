@@ -15,7 +15,7 @@ toc: false
 
 ## Honoring Esther Pullis and Ernestine Eveleigh
 
-This December, we joyfully celebrate the birthdays of two cherished members of our Senior Companions group: Esther Pullis and Ernestine (Ernie) Eveleigh. These remarkable women bring warmth, wisdom, and a vibrant sense of community to our church family.
+This December, we joyfully celebrate the birthdays of two cherished members of our Senior Companions group: Esther and Ernestine. These remarkable women bring warmth, wisdom, and a vibrant sense of community to our church family.
 
 ### Esther Pullis - December 14
 
