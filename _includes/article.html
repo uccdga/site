@@ -49,7 +49,7 @@
           <img class="lazy" data-src="{{ author.image | relative_url }}" alt="{{ author.name }}">
         </a>
         <div class="article__info__bottom">
-          <span>Written by</span>
+          <span>{{author.position}}</span>
           <a class="article__author__name" href="{{ author.url | relative_url }}">{{ author.name }}</a>
         </div>
         {% endif %}

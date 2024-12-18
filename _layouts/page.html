@@ -31,6 +31,12 @@ layout: default
     {% endif %}
   </div>
 
+  {% if page.buttons %}
+
+  {% include {{ page.buttons }} %}
+
+  {% endif %}
+
   <!-- begin page -->
   <article class="page">
     <div class="page__content">
@@ -48,25 +54,30 @@ layout: default
 <!-- Begin Articles Section -->
 {% if page.articles %}
 
-          <!-- begin articles -->
-          <section class="section videos-page animate">
-            
-             {% assign tag =  page.articles %}
-            <div class="container">
-              <div class="section__inner">
-                <div class="row">
-                  {% for post in site.posts %}
-                   {% if post.tags contains tag %}
-                  <div class="col col-4 col-d-6 col-t-12">
-                    {% include article.html %}
-                  </div>
-                  {% endif %}
-                  {% endfor %}
-                </div>
-              </div>
-            </div>
-          </section>
+<!-- begin section-posts -->
+{% assign filtered_posts = site.posts | where_exp: "post", "post.tags contains page.articles" %}
+{% if filtered_posts.size > 0 %}
+<section class="section section-posts animate">
+  <div class="container">
 
+    <div class="section__inner">
+      <div class="section__info">
+        <div class="section__head">
+          <h2 class="section__title">Latest from {{page.title}}</h2>
+        </div>
+      </div>
+
+      <div class="row grid">
+        {% for post in filtered_posts offset:0 %}
+          {% include article.html class="col col-4 col-d-6 col-t-12 animate grid__post" %}
+        {% endfor %}
+      </div>
+
+      {% include pagination.html %}
+    </div>
+      {% endif %}
+  </div>
+</section>
 {% endif %}
 
 

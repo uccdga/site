@@ -92,12 +92,9 @@ layout: default
     </div>
 
     <div class="card-author__content">
-      <div class="card-author__role">Written by</div>
+      <div class="card-author__role">{{ author.position }}</div>
         {% if author.name %}
         <h3 class="card-author__name"><a href="{{ author.url }}" class="card-author__link">{{ author.name }}</a></h3>
-        {% endif %}
-        {% if author.position %}
-        <p class="card-author__description">{{ author.position }}</p>
         {% endif %}
     </div>
   </div>
