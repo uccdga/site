@@ -33,12 +33,12 @@
                 <div class="widget-nav__left">
                   <h3 class="widget-title">Pages</h3>
                   <div class="widget-footer__list">
-                  {% for item in site.data.settings.menu_settings.menu_items %}
-                  {% if item.submenu %}
-                  {% else %}
-                    <a class="widget-footer__item" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                  {% endif %}
-                  {% endfor %}
+                    <a class="widget-footer__item" href="/">Home</a>
+                    <a class="widget-footer__item" href="/about/">About</a>
+                    <a class="widget-footer__item" href="/staff/">Staff</a>
+                    <a class="widget-footer__item" href="/stream/">Live Stream</a>
+                    <a class="widget-footer__item" href="/video/">Videos</a>
+                    <a class="widget-footer__item" href="/news/">News</a>
                   </div>
                 </div>
               </div>
