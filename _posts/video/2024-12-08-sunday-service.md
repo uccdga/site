@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Sunday Service
+title: "Sunday Service"
 date: 2024-12-08
+image: "/images/video/2024-12-08.jpg"
 author: mark
-video_embed: uLVw2uWtkWU
+video_embed: "uLVw2uWtkWU"
 tags: [video]
 ---
 

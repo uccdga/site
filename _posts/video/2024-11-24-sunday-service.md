@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Sunday Service
+title: "Sunday Service"
 description:
 date: 2024-11-24
+image: "/images/video/2024-11-24.jpg"
 author: wade
-video_embed: F7cD0-Ydf7E
+video_embed: "F7cD0-Ydf7E"
 tags: [video]
 ---
 
