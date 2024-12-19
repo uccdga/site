@@ -43,7 +43,7 @@ The Children Team creates a nurturing environment where children learn about fai
 The Youth Team supports teenagers in their spiritual growth and service with:
 
 - **Sunday School:** Bible study and discussion tailored for teens.
-- **The Cause:** Weekly youth group gatherings with worship, fellowship, and service.
+- **The Cause:** Weekly youth group gatherings with worship, fellowship, dinner, and service.
 - **Retreats:** Opportunities for spiritual renewal and connection.
 - **Mission Trips:** Service projects to expand perspectives and serve others.
 - **Morning Connects:** Informal meetings for fellowship and devotion.
@@ -53,8 +53,7 @@ The Youth Team supports teenagers in their spiritual growth and service with:
 ## Young Adult Team
 The Young Adult Team builds community for college students and young professionals through:
 - **Sunday School:** In-depth Bible study and discussion.
-- **Lunches:** Regular social gatherings over meals.
-- **Saturday Connects:** Informal fellowship and discussion meetups.
+- **Connects:** Informal fellowship and discussion meetups.
 - **Small Groups:** Deeper spiritual connections through regular gatherings.
 
 ![Adult Team](/images/UC24_196.jpg)
