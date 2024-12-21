@@ -22,19 +22,20 @@ The Adult Team offers opportunities for spiritual growth, fellowship, and servic
 
 ## Children Team
 
-The Children Team creates a nurturing environment where children learn about faith and community through:
+The Children's Team creates a nurturing environment where children can learn about God and grow their faith in Jesus through:
 
-- **Sunday School:** Age-appropriate Bible lessons and activities.
-- **Vacation Bible School (VBS):** A week-long program focused on God’s love.
-- **Youth Club:** Gatherings for fun, fellowship, and faith-building.
-- **Children’s Time:** Worship service moments for children’s lessons.
+- **Sunday School:** Age-appropriate Bible lessons and activities for children 3-years-old through 12th grade.
+- **Vacation Bible School (VBS):** A week-long program in the summer focused on learning more about Jesus and what it means to follow him.
+- **Youth Club:** Weekly gatherings during the school year that include fun, fellowship, Bible study, worship, and dinner.
+- **Children's Time:** A children's church opportunity offered during the 11:00am service.
 - **Nursery:** Care and activities for young children during services.
-- **Children’s Missions Projects:** Teaching service and generosity through:
-  - Holiday stockings for those in need.
-  - Birthday bags for children in shelters or foster care.
-  - Angel Tree projects for children of incarcerated parents.
-  - Fundraisers like Rice Bowls and Fish Banks for global mission efforts.
-  - **Prayer Partners:** Volunteers who pray for specific children’s classes.
+- **Children's Missions Projects:** Teaching service and generosity through:
+
+    - Holiday stockings for those in need.
+    - Birthday bags for children whose families use local food pantries.
+    - Learning about missionaries our church family supports.
+    - Giving opportunities, such as Rice Bowls and Fish Banks, for global mission efforts.
+    - Caroling at a local nursing home.
 
  ![Adult Team](/images/UC24_574.jpg)
 
