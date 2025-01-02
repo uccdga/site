@@ -19,3 +19,4 @@ toc: false
 **The Adult Ministry Team:** Brenda and Bob Cunningham, Steve Simpson, Gary Preece, Gail Benjamin, Adam Thorman, Bev Fehrenbach, and Melissa Long. Wendy Bacon and Deb Marshall are serving as counsel for our young adult ministry.
 
 
+
