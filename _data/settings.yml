@@ -47,6 +47,8 @@ menu_settings:
           title: "Live Stream"
         - url: "/video/"
           title: "Videos"
+        - url: "Podcast"
+          title: "/podcast/"
         - url: "/worship/"
           title: "Description"
         - url: "/bulletin"

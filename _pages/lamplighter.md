@@ -5,5 +5,17 @@ description: Welcome to The Lamplighter, our church newsletter, where you’ll f
 permalink: /lamplighter/
 image: 
 articles: lamplighter
+buttons: publication
 ---
 
+<div class="table-container">
+  <table>
+    <tr><th>Year</th><th>Month</th><th>Download</th></tr>
+    <tr><td>2024</td><td>December</td><td><a href="http://example.com" target="_blank">
+          <img src="/images/pdf.png" alt="Download PDF">
+        </a></td></tr>
+     <tr><td>2024</td><td>December</td><td><a href="http://example.com" target="_blank">
+          <img src="/images/pdf.png" alt="Download PDF">
+        </a></td></tr>
+  </table>
+</div>
