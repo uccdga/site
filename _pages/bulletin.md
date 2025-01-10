@@ -23,7 +23,7 @@ buttons: publication
         <tr>
           <td>{{ item.date | date: "%B %d, %Y" }}</td>
           <td>
-            <a href="/files/{{ item.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
+            <a href="https://files.uccdga.org/bulletins/{{ item.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
               <img src="/images/pdf.png" alt="Download PDF" style="width: 50px; height: 50px;">
             </a>
           </td>
