@@ -74,6 +74,47 @@ layout: default
       {% endif %}
 
       {{ content }}
+
+     {% if page.video_embed %}
+
+<table>
+  <thead>
+    <tr>
+
+    </tr>
+  </thead>
+  <tbody>
+    {% assign bulletins = site.data.publications | where: "type", "bulletin" %}
+    
+    <!-- Convert page.date to the same format (YYYY-MM-DD) -->
+    {% assign page_date_formatted = page.date | date: "%Y-%m-%d" %}
+    
+    
+    {% assign bulletin_for_today = bulletins | where: "date", page_date_formatted | first %}
+    
+    
+    {% if bulletin_for_today %}
+      <tr>
+        <td>
+          <a href="/files/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
+            Bulletin for {{ page.date | date: "%B %d, %Y" }}
+          </a>
+        </td>
+        <td>
+          <a href="/files/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
+            <img src="/images/pdf.png" alt="Download PDF" style="width: 50px; height: 50px;">
+          </a>
+        </td>
+      </tr>
+    {% else %}
+      <tr>
+        <td colspan="2">No bulletin available for {{ page.date | date: "%B %d, %Y" }}.</td>
+      </tr>
+    {% endif %}
+  </tbody>
+</table>
+     {% endif %}
+
     </div>
   </article>
   <!-- end post -->
