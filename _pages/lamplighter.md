@@ -8,14 +8,31 @@ articles: lamplighter
 buttons: publication
 ---
 
-<div class="table-container">
-  <table>
-    <tr><th>Year</th><th>Month</th><th>Download</th></tr>
-    <tr><td>2024</td><td>December</td><td><a href="http://example.com" target="_blank">
-          <img src="/images/pdf.png" alt="Download PDF">
-        </a></td></tr>
-     <tr><td>2024</td><td>December</td><td><a href="http://example.com" target="_blank">
-          <img src="/images/pdf.png" alt="Download PDF">
-        </a></td></tr>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Month & Year</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign lamplighters = site.data.publications | where: "type", "lamplighter" %}
+    {% if lamplighters.size > 0 %}
+      {% assign lamplighters = lamplighters | sort: "date" | reverse | slice: 0, 12 %}
+      {% for item in lamplighters %}
+        <tr>
+          <td>{{ item.date | date: "%B %Y" }}</td>
+          <td>
+            <a href="/files/{{ item.date | date: '%Y-%m' }}_lamplighter.pdf" target="_blank">
+              <img src="/images/pdf.png" alt="Download PDF" style="width: 50px; height: 50px;">
+            </a>
+          </td>
+        </tr>
+      {% endfor %}
+    {% else %}
+      <tr>
+        <td colspan="2">No lamplighter publications available.</td>
+      </tr>
+    {% endif %}
+  </tbody>
+</table>
