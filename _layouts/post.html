@@ -96,12 +96,12 @@ layout: default
     {% if bulletin_for_today %}
       <tr>
         <td>
-          <a href="/files/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
+          <a href="https://files.uccdga.org/bulletins/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
             Bulletin for {{ page.date | date: "%B %d, %Y" }}
           </a>
         </td>
         <td>
-          <a href="/files/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
+          <a href="https://files.uccdga.org/bulletins/{{ bulletin_for_today.date | date: '%Y-%m-%d' }}_bulletin.pdf" target="_blank">
             <img src="/images/pdf.png" alt="Download PDF" style="width: 50px; height: 50px;">
           </a>
         </td>
