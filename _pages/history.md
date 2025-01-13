@@ -29,7 +29,7 @@ The history of The United Church spans back to the 19th century. In 1870, Presby
 - **1942**: The American Baptist Church was destroyed by fire.
 - **1947**: Baptists began worshipping jointly with the Presbyterians.
 - **1973**: The Christian Education Building was erected.
-- **1990**: Rev. James Kerr began his pastorate.
+- **1991**: Rev. James Kerr began his pastorate.
 - **2015**: A new pipe organ was completed.
 - **2018-2019**: A Building Preservation Project restored windows, brickwork, and the front door.
 - **2021**: Rev. Dr. Wade Allen began his pastorate.
