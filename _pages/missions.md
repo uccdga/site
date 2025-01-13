@@ -5,6 +5,7 @@ description: The Missions Ministry is dedicated to fulfilling the Great Commissi
 permalink: /missions/
 image: /images/Mission-Trips-01.png
 articles: missions
+buttons: giving
 ---
 
 ## Collections Team
