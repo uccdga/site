@@ -12,6 +12,8 @@ toc: false
 
 # Exploring Membership at Our Church
 
+**Sunday, February 16 at 9:45 AM**
+
 Are you interested in learning more about our church community and what it means to be a member? We warmly invite you to join us for our upcoming Exploring Membership Class, where you'll have the opportunity to deepen your understanding of our church's mission, values, and community life.
 
 ## What to Expect
