@@ -14,7 +14,13 @@ menu_settings:
     - title: "Home"
       url: "/"
     - title: "News"
-      url: "/news/"
+      submenu:
+      - url: "/news/"
+        title: "News"
+      - url: "https://uccdga.churchcenter.com/calendar?view=month"
+        title: "Calendar"    
+      - url: "/lamplighter/"
+        title: "Lamplighter"                   
     - title: "About"
       submenu:
       - url: "/staff/"
