@@ -21,6 +21,6 @@ You may place your donations in the offering plate passed during the Sunday serv
 
 If it is more convenient for you, you can donate online funds. [Online giving](https://uccdga.churchcenter.com/giving) can be set up as a one-time event or a recurring donation.
 
-## [Pledging](https://docs.google.com/forms/d/e/1FAIpQLSepMsYlES2-SfWG6YktD_lzFk3ZCMCmguAtfNju3Nr8_DvpOA/viewform)
+## [Pledging](https://bit.ly/ucc-pledge)
 
-[Pledging](https://docs.google.com/forms/d/e/1FAIpQLSepMsYlES2-SfWG6YktD_lzFk3ZCMCmguAtfNju3Nr8_DvpOA/viewform) the amounts that you intend to give each year helps the church to plan the budgets for the next year. The United Church separates pledged amounts into money given towards the **Operational Expenses** of the church and **Missions** of the church.
+[Pledging](https://bit.ly/ucc-pledge) the amounts that you intend to give each year helps the church to plan the budgets for the next year. The United Church separates pledged amounts into money given towards the **Operational Expenses** of the church and **Missions** of the church.
