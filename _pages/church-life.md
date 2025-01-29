@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Church Life Ministry
-description: The Church Life Ministry is dedicated to fostering a vibrant and engaging community within our church, creating opportunities for connection, fellowship, and active participation. Through our Events Team, we organize a variety of enjoyable activities, including the annual church picnic, game nights, sledding events, bowling outings, kayaking trips, and sports teams, all aimed at bringing members together in fun and meaningful ways. The Connections Team focuses on helping visitors feel at home and encouraging them to engage more fully in the life of the church through follow-up care, welcome bags, and opportunities for new members to connect with mentors. Our mission is to strengthen the bonds within our church community and support both the spiritual and social growth of our members.
+description: The Church Life Ministry is dedicated to fostering a vibrant and engaging community within our church, creating opportunities for connection, fellowship, and active participation. Through our Events Team, we organize a variety of enjoyable activities, including the annual church picnic, game nights, sledding events, bowling outings, and kayaking trips, all aimed at bringing members together in fun and meaningful ways. The Connections Team focuses on helping visitors feel at home and encouraging them to engage more fully in the life of the church through follow-up care, welcome bags, and opportunities for new members to connect with mentors. Our mission is to strengthen the bonds within our church community and support both the spiritual and social growth of our members.
 permalink: /church-life/
 image: /images/UC24_436.jpg
 articles: church-life
@@ -17,7 +17,7 @@ The Events Team creates fun and enriching activities to bring the church communi
 - **Sledding:** Winter outings for outdoor fun and camaraderie.
 - **Bowling Nights:** Social events to build relationships through friendly competition.
 - **Kayaking Trips:** Adventures in nature that foster fellowship and connection.
-- **Sports Teams:** Opportunities for physical activity, teamwork, and community building.
+- **Red Wings Game** Attending the baseball game as a church family.
 
 ![Church Life](/images/UC24_418.jpg)
 

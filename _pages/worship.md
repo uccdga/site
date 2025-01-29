@@ -33,6 +33,8 @@ The Music Ministries offer a variety of musical groups and opportunities to enha
 - **Youth Club Music:** Involving youth in musical performances and worship leadership.
 - **Sunday School Singers:** Encouraging participation in singing during services.
 - **Concerts Team:** Planning and organizing organ concerts and special seasonal concerts.
+- **Bell Choir** Creating beautiful harmonies through coordinated handbell ringing.
+- **Youth Choir** Young voices join together to share God's love through song.
 
 ![Adult Team](/images/UC24_209.jpg)
 

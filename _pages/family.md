@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Family Ministry
-description: The Family Ministry supports the spiritual growth of all ages within our church. Through tailored programs for adults, children, youth, and young adults—such as Sunday school, small groups, retreats, and mission opportunities—we foster faith and community. The Children and Youth Teams offer age-appropriate activities and service projects, while the Young Adult Team provides support for college students and young professionals. Together, these ministries help everyone grow in faith.
+description: The Family Ministry supports the spiritual growth of all ages within our church. Through tailored programs for adults, children, youth, and young adults—such as Sunday school, small groups, retreats, and mission opportunities—we foster faith and community. The Children's and Youth Teams offer age-appropriate activities and service projects, while the Young Adult Team provides support for college students and young professionals. Together, these ministries help everyone grow in faith.
 permalink: /family/
 articles: family
 image: /images/UC24_338.jpg
@@ -20,9 +20,9 @@ The Adult Team offers opportunities for spiritual growth, fellowship, and servic
 
 ![Adult Team](/images/UC24_148.jpg)
 
-## Children Team
+## Children’s team
 
-The Children's Team creates a nurturing environment where children can learn about God and grow their faith in Jesus through:
+The Children’s team creates a nurturing environment where children can learn about God and grow their faith in Jesus through:
 
 - **Sunday School:** Age-appropriate Bible lessons and activities for children 3-years-old through 12th grade.
 - **Vacation Bible School (VBS):** A week-long program in the summer focused on learning more about Jesus and what it means to follow him.
@@ -34,7 +34,7 @@ The Children's Team creates a nurturing environment where children can learn abo
     - Holiday stockings for those in need.
     - Birthday bags for children whose families use local food pantries.
     - Learning about missionaries our church family supports.
-    - Giving opportunities, such as Rice Bowls and Fish Banks, for global mission efforts.
+    - Giving opportunities that support local missions and ministries.
     - Caroling at a local nursing home.
 
  ![Adult Team](/images/UC24_574.jpg)
