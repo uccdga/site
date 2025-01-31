@@ -60,6 +60,28 @@ menu_settings:
         - url: "/bulletin"
           title: "Bulletins"
 
+footer_menu_settings:
+  menu_items:
+    - url: "/about/"
+      title: "About"
+    - url: "/news/"
+      title: "News"
+    - url: "/staff/"
+      title: "Staff"
+    - url: "/stream/"
+      title: "Live Stream"
+
+mobile_menu_settings:
+  menu_items:
+    - url: "/about/"
+      title: "About"
+    - url: "/news/"
+      title: "News"
+    - url: "/staff/"
+      title: "Staff"
+    - url: "/stream/"
+      title: "Live Stream"
+
 
 # Call to action button
 cta_button:
