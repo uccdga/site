@@ -10,7 +10,7 @@ featured: false
 toc: false
 ---
 
-As a church family, we have established a tradition of celebrating the season of Epiphany, which commences on January 6 and continues until Ash Wednesday, the start of Lent. This season invites us to reflect on the ministry of Jesus as the light that enters a dark world, guiding us through His baptism, teachings, and healings. In 2025, Ash Wednesday will occur on February 26, extending the Epiphany season and allowing for more Sundays, offering extra opportunities for reflection and celebration.
+As a church family, we have established a tradition of celebrating the season of Epiphany, which commences on January 6 and continues until Ash Wednesday, the start of Lent. This season invites us to reflect on the ministry of Jesus as the light that enters a dark world, guiding us through His baptism, teachings, and healings. In 2025, Ash Wednesday will occur on March 5, extending the Epiphany season and allowing for more Sundays, offering extra opportunities for reflection and celebration.
 
 In February, we will focus significantly on Jesus' teachings, which, I must warn you, are challenging to embrace. Ultimately, we can only embody these teachings through the power of God. The early church also wrestled with Jesus' radical call to love others and to respond to persecution with love and grace, a theme echoed in the letters of Paul and Peter to the first-century churches. I encourage you to take the time to read the Scriptures each week and come to worship prepared to engage with God's Word.
 
