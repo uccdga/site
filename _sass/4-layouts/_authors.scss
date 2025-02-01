@@ -19,8 +19,8 @@
     position: relative;
     transform: translate(0);
     display: block;
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    aspect-ratio: 1 / 1;
     margin: 0 auto 12px;
     border-radius: 50%;
     overflow: hidden;
