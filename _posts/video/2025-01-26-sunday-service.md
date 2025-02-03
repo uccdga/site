@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunday Service"
+title: "Sunday Service (Coming Home, Part 1: Jesus in Nazareth)"
 date: 2025-01-26
 image: /images/video/2025-01-26.jpg
 author: wade
