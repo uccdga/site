@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunday Service"
+title: "Sunday Service (Coming Home, Part 2: When Nazareth Turned on Jesus)"
 date: 2025-02-02
 image: /images/video/2025-02-02.jpg
 author: wade
