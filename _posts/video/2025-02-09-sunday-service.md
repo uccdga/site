@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunday Service"
+title: "Sunday Service (Masters and Fishermen)"
 date: 2025-02-09
 image: /images/video/2025-02-09.jpg
 author: wade
