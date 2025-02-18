@@ -12,9 +12,9 @@ toc: false
 
 **Saturday, March 22, 5:30-7:30pm**
 
-Roseland Bowl, 4357 Recreation Drive, Canandaigua
+Roseland Bowl, 4357 Recreation Drive, Canandaigua.
 
-$10 adults per person ($40 maximum per family) covers bowling, pizza, drinks, & dessert
+$10 adults per person ($40 maximum per family) covers bowling, pizza, drinks, & dessert.
 
 Register and pay [here](https://uccdga.churchcenter.com/registrations/events/2734281) or contact Mary Beth Fortunato. **Registration deadline is March 16.**
 
