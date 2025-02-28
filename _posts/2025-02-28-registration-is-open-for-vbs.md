@@ -2,7 +2,7 @@
 layout: post
 title: 'Registration is open for VBS'
 description:
-date: 2025-03-01
+date: 2025-02-28
 author: deb
 image: '/images/unsplash/2025-02-28-registration-is-open-for-vbs.jpg'
 tags: [family]
