@@ -4,7 +4,7 @@ title: 'Family Ministry Update'
 description:
 date: 2025-03-31
 author: deb
-image: '/images/UC24_UC24_932.jpg'
+image: '/images/UC24_932.jpg'
 tags: [family]
 featured: false
 toc: false
