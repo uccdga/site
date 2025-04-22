@@ -109,7 +109,7 @@ The United Church connects with two denominations and various ministries. Throug
 
 The United Church is part of the Presbyterian Church USA (PC-USA) through the Presbytery of Geneva. Presbyterian influence is evident in our structured, traditional service. However, The United Church does not align with PC-USA on some issues. Contact our Pastor if you would like to learn more.
 
-Our church is a member of [The Fellowship Community](https://www.fellowship.community/about/who-we-are/), a network of evangelical churches within the Presbyterian Church (USA). The Fellowship Community's [Essential Tenets](https://www.fellowship.community/s/The-Essential-Tenets1.pdf) statement summarizes our understanding of our faith, and it serves as a standard for all leaders in the church.
+Our church is a member of [The Fellowship Community](https://www.fellowship.community/who-we-are), a network of evangelical churches within the Presbyterian Church (USA). The Fellowship Community's [Essential Tenets](https://www.fellowship.community/s/The-Essential-Tenets1.pdf) statement summarizes our understanding of our faith, and it serves as a standard for all leaders in the church.
 
 ### Baptists
 
