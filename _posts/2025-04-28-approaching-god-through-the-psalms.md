@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introducing Our New Care Ministers'
+title: 'Approaching God Through the Psalms'
 description:
 date: 2025-04-28
 author: wade
@@ -20,12 +20,16 @@ These psalms remind us that approaching God isn't a one-size-fits-all experience
 
 I encourage you to read each psalm before Sunday worship, perhaps reading it daily throughout the week. Allow these ancient words to become your own prayers as we learn together how to approach God with authenticity, trust, and praise.
 
-Worship Schedule
-May 04 - Appreciate, Consider, and Thank (ACT): Our Response to The Psalm of Temple Dedication (Psalm 30)
-Additional Readings: Revelation 5:11-14, John 21:1-19
-May 11 - From Pastures to Palaces (Psalm 23)
-Additional Readings: Revelation 7:9-17, John 10:22-30
-May 18 - The Complete Symphony of Praise (Psalm 148)
-Additional Readings: Revelation 21:1-6, John 13:31-35
-May 25 - Shining His Light: God's Face and Our Mission (Psalm 67)
-Additional Readings: John 5:1-9, Acts 16:9-15
+#### Worship Schedule
+* May 04 - Appreciate, Consider, and Thank (ACT): Our Response to The Psalm of Temple Dedication (Psalm 30)
+
+  Additional Readings: Revelation 5:11-14, John 21:1-19
+* May 11 - From Pastures to Palaces (Psalm 23)
+
+  Additional Readings: Revelation 7:9-17, John 10:22-30
+* May 18 - The Complete Symphony of Praise (Psalm 148)
+
+  Additional Readings: Revelation 21:1-6, John 13:31-35
+* May 25 - Shining His Light: God's Face and Our Mission (Psalm 67)
+
+  Additional Readings: John 5:1-9, Acts 16:9-15
