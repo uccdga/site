@@ -5,7 +5,7 @@ description:
 date: 2025-04-28
 author: wade
 image: '/images/unsplash/2025-04-28-approaching-god-through-the-psalms.jpg'
-tags:
+tags: [worship]
 featured: false
 toc: false
 ---
