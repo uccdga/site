@@ -4,7 +4,7 @@ title: 'Family Ministry Update'
 description:
 date: 2025-05-01
 author: deb
-image: '/images/unsplash/2025-05-01-family-ministry-update.jpg'
+image: '/images/unsplash/2025-05-01-family-ministry-update.jpeg'
 tags: [family, care, missions, church-life, worship]
 featured: false
 toc: false
