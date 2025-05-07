@@ -22,7 +22,7 @@ Steps:
   * The video ID is the string after `v=` in the URL (e.g., in `https://www.youtube.com/watch?v=QI7PB0GGum0`, the ID is `QI7PB0GGum0`).
 
 2. Get the sermon title and description
-  * Open Twist and go to the Worship Planning channel.
+  * Open Twist and go to the [Worship Planning channel](https://twist.com/a/155663/ch/417281/).
   * Locate the thread for the relevant service date.
   * The title and description are typically provided in that thread.
 
@@ -42,10 +42,10 @@ Each Friday, post the bulletin for the upcoming Sunday.
 
 Steps:
 1. Check the bulletin repository
-  * Carolyn usually uploads the bulletin to [https://github.com/uccdga/files/tree/main/bulletins] in the early afternoon.
+  * Carolyn usually uploads the bulletin to https://github.com/uccdga/files/tree/main/bulletins in the early afternoon.
 
 2. Update the bulletin list
-  * Edit [https://github.com/uccdga/site/blob/main/_data/publications.yml] to add an entry for the new bulletin.
+  * Edit https://github.com/uccdga/site/blob/main/_data/publications.yml to add an entry for the new bulletin.
 
 3. Merge to main
   * Once the update is made, commit and merge the changes into the main branch.
