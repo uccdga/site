@@ -1,0 +1,17 @@
+name: daily-build
+
+on:
+  schedule:
+    - cron: '25 3 * * *'
+
+jobs:
+  daily-refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GH Pages daily Build
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $GH_TOKEN"
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
