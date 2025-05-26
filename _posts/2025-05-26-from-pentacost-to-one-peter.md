@@ -4,7 +4,7 @@ title: 'From Pentecost to 1 Peter'
 description:
 date: 2025-05-26
 author: wade
-image: '/images/unsplash/2025-05-19-david-bumgardner.jpg'
+image: '/images/unsplash/2025-05-26-david-bumgardner.jpg'
 tags: [worship]
 featured: false
 toc: false
