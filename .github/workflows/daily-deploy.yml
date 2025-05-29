@@ -3,6 +3,7 @@ name: daily-build
 on:
   schedule:
     - cron: '25 3 * * *'
+  workflow_dispatch:
 
 jobs:
   daily-refresh:
