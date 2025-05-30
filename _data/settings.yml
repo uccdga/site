@@ -20,7 +20,11 @@ menu_settings:
       - url: "https://uccdga.churchcenter.com/calendar?view=month"
         title: "Calendar"    
       - url: "/lamplighter/"
-        title: "Lamplighter"                   
+        title: "Lamplighter"
+      - url: https://uccdga.churchcenter.com/registrations
+        title: Sign Up
+      - url: https://uccdga.churchcenter.com/home
+        title: Weekly Highlights
     - title: "About"
       submenu:
       - url: "/staff/"
