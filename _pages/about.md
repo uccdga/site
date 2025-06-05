@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: Here is where you find for more information about how the church is structured, the beliefs, or what you need to know the first time you come to The United Church.
+description: Learn about our church structure, core beliefs, and what to expect on your first visit to The United Church.
 permalink: /about/
 image: '/images/UC24_256.jpg'
 image_caption:
