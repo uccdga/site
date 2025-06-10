@@ -51,6 +51,11 @@ defaults:
     values:
       layout: "author"
 
+exclude: [
+  "README.md",
+  "scripts"
+]
+
 
 sass:
   sass_dir: _sass
