@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YOUTH MINISTRY UPDATE'
+title: 'YOUNG ADULT & ADULT MINISTRY UPDATE'
 description:
 date: 2025-06-06
 author: mark
