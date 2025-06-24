@@ -1,4 +1,4 @@
-This is the website for The Untied Church in Canandaigua.
+This is the website for The United Church in Canandaigua.
 
 ## Pre-requisites
 
