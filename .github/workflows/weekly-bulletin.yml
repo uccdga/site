@@ -2,7 +2,7 @@ name: weekly-bulletin
 
 on:
   schedule:
-    - cron: '20 17 * * 5'
+    - cron: '20 21 * * 5'
   
 permissions:
   contents: write
