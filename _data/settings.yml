@@ -166,9 +166,10 @@ social:
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://www.facebook.com/unitedchurchcdga"}
 # - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 # - {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
-# - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/the_united_church_new_york/"}
 # - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 # - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://www.dribbble.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/@uccdga"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
