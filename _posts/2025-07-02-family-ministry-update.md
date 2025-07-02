@@ -3,7 +3,7 @@ layout: post
 title: 'Family Ministry Update'
 description:
 date: 2025-07-02
-author: christy
+author: deb
 image: '/images/church/uc_1888.jpg'
 tags: [family, missions]
 featured: false
