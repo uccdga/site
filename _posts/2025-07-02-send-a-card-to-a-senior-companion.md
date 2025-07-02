@@ -4,7 +4,7 @@ title: 'Share a Note, Share God’s Love: Send a Card to a Senior Companion This
 description:
 date: 2025-07-02
 author: christy
-image: '/images/unsplash/2025-07-01-send-a-card-to-a-senior-companion.jpg'
+image: '/images/unsplash/2025-07-02-send-a-card-to-a-senior-companion.jpg'
 tags: [care]
 featured: false
 toc: false
