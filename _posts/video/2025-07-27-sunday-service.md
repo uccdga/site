@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunday Service"
+title: "Sunday Service (Beyond What We Can See)"
 date: 2025-07-27
 image: /images/video/2025-07-27.jpg
 author: wade
