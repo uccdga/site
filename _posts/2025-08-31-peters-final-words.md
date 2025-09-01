@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Peter's Final Words: A Series on 2 Peter'
+title: 'Peter''s Final Words: A Series on 2 Peter'
 description:
 date: 2025-08-31
 author: wade
@@ -29,11 +29,11 @@ This September, let's explore together what it means to grow spiritually, stay g
 Join us starting September 7th for this encouraging series on 2 Peter. Come ready to be both comforted and challenged by the final words of one who walked with Jesus.
 
 Worship Schedule for September
-September 07 - Everything We Need (2 Peter 1:1-4)
-Additional Readings: Jeremiah 1:4-10, John 1:35-42
-September 14 - Make Every Effort (2 Peter 1:5-11)
-Additional Readings: Psalm 119:9-16, Joshua 1:7-9
-September 21 - A Lasting Reminder (2 Peter 1:12-15)
-Additional Readings: Psalm 90:10-12, 14-17, Deuteronomy 6:6-9
-September 28 - Eyewitness to the Truth (2 Peter 1:16-21)
-Additional Readings: Matthew 17:1-8, Psalm 19:7-11
+- September 07 - Everything We Need (2 Peter 1:1-4)
+  - Additional Readings: Jeremiah 1:4-10, John 1:35-42
+- September 14 - Make Every Effort (2 Peter 1:5-11)
+  - Additional Readings: Psalm 119:9-16, Joshua 1:7-9
+- September 21 - A Lasting Reminder (2 Peter 1:12-15)
+  - Additional Readings: Psalm 90:10-12, 14-17, Deuteronomy 6:6-9
+- September 28 - Eyewitness to the Truth (2 Peter 1:16-21)
+  - Additional Readings: Matthew 17:1-8, Psalm 19:7-11
