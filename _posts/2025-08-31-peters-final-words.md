@@ -22,11 +22,11 @@ What makes this letter especially powerful is Peter's own story of transformatio
 
 Peter's second letter isn't long, but it's packed with wisdom for godly living. He addresses real-world challenges with biblical solutions, offering both encouragement and necessary warnings. Whether you're new to faith or have been following Jesus for years, Peter's final words have something valuable to offer.
 
-Here's an invitation: Consider reading ahead each week to get the most from this series. The entire letter is only three chapters, making it manageable to read through multiple times during September. Peter wrote with urgency because he knew his time was short. While we may not face his immediate circumstances, his passion for spiritual growth and biblical truth speaks directly to our lives today.
+**Here's an invitation:** Consider reading ahead each week to get the most from this series. The entire letter is only three chapters, making it manageable to read through multiple times during September. Peter wrote with urgency because he knew his time was short. While we may not face his immediate circumstances, his passion for spiritual growth and biblical truth speaks directly to our lives today.
 
 This September, let's explore together what it means to grow spiritually, stay grounded in truth, and live with hope in Christ's return. Peter's farewell message reminds us that the Christian life is both a gift to receive and a calling to pursue with intentionality.
 
-Join us starting September 7th for this encouraging series on 2 Peter. Come ready to be both comforted and challenged by the final words of one who walked with Jesus.
+_Join us starting September 7th for this encouraging series on 2 Peter. Come ready to be both comforted and challenged by the final words of one who walked with Jesus._
 
 Worship Schedule for September
 - September 07 - Everything We Need (2 Peter 1:1-4)
