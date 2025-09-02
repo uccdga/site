@@ -4,7 +4,7 @@ title: 'North Carolina Missions Trip'
 description:
 date: 2025-09-02
 author: deb
-image: '/images/unsplash/2025-09-02-nc-missions-trip.jpg'
+image: '/images/2025-09-02-nc-missions-trip.jpg'
 tags: [missions]
 featured: false
 toc: false
