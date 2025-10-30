@@ -10,8 +10,6 @@ featured: false
 toc: false
 ---
 
-# **Congratulations, Lou V.!**
-
 While recovering from a stroke earlier this year, Lou received the exciting news that he had been selected as  **a candidate for induction into the Sayville High School Athlete Hall of Fame, Class of 2025.**
 
 During his high school years on Long Island, Lou excelled in both football and baseball, earning varsity letters in each. He was named to the All-County football team as a freshman and received the Marinus Buys Trophy in baseball for his .433 batting average his senior year.
