@@ -10,8 +10,6 @@ featured: false
 toc: false
 ---
 
-# **Senior Companion Birthdays**
-
 **Marilynn F. Nov 10**  
 Marilynn is a retired High School English Teacher. She lives at The Terraces in Newark, a lovely senior home near her nephew. As a member of our congregation she was a faithful choir member, a women's circle member and a Bible study leader. In retirement she learned to knit and made prayer shawls for church members and friends. Marilynn always loved cats, welcoming strays and cared for many with love and patience. She will be celebrating her 94th birthday on November 10th. She no longer is able to attend worship, but welcomes visitors. -_Written by her Steward Rachel R._
 
