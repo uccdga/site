@@ -1,0 +1,22 @@
+name: weekly-bulletin
+
+on:
+  schedule:
+    - cron: '50 21 28 * *'
+  
+permissions:
+  contents: write
+
+jobs:
+  weekly-bulletin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate
+        run: bash ./scripts/update-publications-lamplighter.sh
+      - name: Commit
+        run: |
+          git config --global user.name 'uccdga'
+          git config --global user.email '110483520+uccdga@users.noreply.github.com'
+          git commit -am "Add monthly lamplighter"
+          git push
