@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate
-        run: bash ./scripts/update-publications.sh
+        run: bash ./scripts/update-publications-bulletin.sh
       - name: Commit
         run: |
           git config --global user.name 'uccdga'
