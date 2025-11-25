@@ -115,7 +115,7 @@ blog:
 #-------------------------------
 # Christmas Section Settings
 christmas:
-  enable: false
+  enable: true
 
 
 #-------------------------------
