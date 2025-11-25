@@ -112,6 +112,11 @@ blog:
   enable: true
   blog_title: Latest
 
+#-------------------------------
+# Christmas Section Settings
+christmas:
+  enable: false
+
 
 #-------------------------------
 # Recommended Section Settings
