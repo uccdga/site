@@ -1,4 +1,4 @@
-name: weekly-bulletin
+name: monthly-lamplighter
 
 on:
   schedule:
