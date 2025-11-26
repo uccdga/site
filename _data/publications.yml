@@ -150,10 +150,7 @@
   type: "bulletin"
 - date: "2025-11-01"
   type: "lamplighter"
-
 - date: "2025-11-16"
   type: "bulletin"
 - date: "2025-11-23"
   type: "bulletin"
-- date: "2025-12-01"
-  type: "lamplighter"
