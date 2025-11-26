@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  weekly-bulletin:
+  monthly-lamplighter:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
