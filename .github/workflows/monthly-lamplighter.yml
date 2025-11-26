@@ -3,6 +3,7 @@ name: monthly-lamplighter
 on:
   schedule:
     - cron: '50 21 28 * *'
+  workflow_dispatch:
   
 permissions:
   contents: write
