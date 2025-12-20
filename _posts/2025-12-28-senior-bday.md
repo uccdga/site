@@ -10,4 +10,6 @@ featured: false
 toc: false
 ---
 
-Jim enjoys the simple and joyful things in life - long summer walks, music, and good food. His favorite hymns include _When Morning Gilds the Skies_ and _Great Is Thy Faithfulness_. Summer is his favorite season, with winter coming in as a close second. He’s a former avid bicyclist and golfer, and enjoyed ice skating. When it comes to favorite foods, you can't go wrong with roast prime rib (with popovers!), potato chips, and olives. We're grateful for Jim and wish him a very happy birthday!. Happy Birthday Jim!
+**January 15 - Jim H.**
+
+Jim enjoys the simple and joyful things in life - long summer walks, music, and good food. His favorite hymns include  _When Morning Gilds the Skies_  and  _Great Is Thy Faithfulness_. Summer is his favorite season, with winter coming in as a close second. He’s a former avid bicyclist and golfer, and enjoyed ice skating. When it comes to favorite foods, you can't go wrong with roast prime rib (with popovers!), potato chips, and olives. We're grateful for Jim and wish him a very happy birthday!. Happy Birthday Jim!
