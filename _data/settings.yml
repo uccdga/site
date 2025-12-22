@@ -99,7 +99,7 @@ cta_button:
 hero:
   enable: false
   hero_title: The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua, New York.
-  hero_description: Join us at 8:45 AM and 11 AM each Sunday morning
+  hero_description: Join us at 8:45 AM and 11 AM (No 8:45 Service on December 28) each Sunday morning
 
 hero_authors:
   enable: true
@@ -113,7 +113,7 @@ blog:
   blog_title: Latest
 
 #-------------------------------
-# Christmas Section Settings
+# Christmas Section Settings (edit in _includes/section-christmas.html)
 christmas:
   enable: true
 
@@ -131,7 +131,7 @@ recommended:
 about:
   enable: true
   about_title: Welcome
-  about_subtitle: Sunday Services at 8:45 AM and 11 AM
+  about_subtitle: Sunday Services at 8:45 AM and 11 AM (No 8:45 Service on December 28)
   about_description: |
     The United Church is a wonderful church family with rich traditions and history in the community of Canandaigua, New York
 
