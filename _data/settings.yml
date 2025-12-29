@@ -112,10 +112,11 @@ blog:
   enable: true
   blog_title: Latest
 
+
 #-------------------------------
 # Christmas Section Settings (edit in _includes/section-christmas.html)
 christmas:
-  enable: true
+  enable: false
 
 
 #-------------------------------
