@@ -118,6 +118,8 @@ blog:
 christmas:
   enable: false
 
+cancel:
+  enable: false
 
 #-------------------------------
 # Recommended Section Settings
