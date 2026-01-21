@@ -120,6 +120,7 @@ christmas:
 
 cancel:
   enable: false
+  message: "Due to weather, the early service (8:45 AM) and Sunday school are canceled. We will gather in one service today at 11 AM."
 
 #-------------------------------
 # Recommended Section Settings
