@@ -119,8 +119,20 @@ christmas:
   enable: false
 
 cancel:
-  enable: false
-  message: "Due to weather, the early service (8:45 AM) and Sunday school are canceled. We will gather in one service today at 11 AM."
+  enable: true
+  message: |
+    WEATHER UPDATE - Sunday, January 25, 2026
+
+    Due to the Winter Storm Warning for Ontario County:
+
+    CANCELED:
+    - 8:45 AM Service
+    - 9:45 AM Sunday School
+    - 12:00 PM Annual Meeting (date TBA)
+
+    11:00 AM Service: Currently scheduled, but will be canceled if a Travel Ban is issued. Check email and social media before coming.
+
+    Please prioritize your safety.
 
 #-------------------------------
 # Recommended Section Settings
