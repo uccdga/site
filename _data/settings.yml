@@ -123,16 +123,9 @@ cancel:
   message: |
     WEATHER UPDATE - Sunday, January 25, 2026
 
-    Due to the Winter Storm Warning for Ontario County:
-
-    CANCELED:
-    - 8:45 AM Service
-    - 9:45 AM Sunday School
-    - 12:00 PM Annual Meeting (date TBA)
-
-    11:00 AM Service: Currently scheduled, but will be canceled if a Travel Ban is issued. Check email and social media before coming.
-
-    Please prioritize your safety.
+    Due to the <a href="https://www.ontariocountysheriff.org/" target="_blank">Ontario County Sheriff's No Unnecessary Travel Notice</a>, all services are canceled today.
+    
+    The Annual Meeting is postponed until next week, Sunday, February 1 following the late service.
 
 #-------------------------------
 # Recommended Section Settings
