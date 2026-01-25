@@ -119,9 +119,9 @@ christmas:
   enable: false
 
 cancel:
-  enable: true
+  enable: false
   message: |
-    WEATHER UPDATE - Sunday, January 25, 2026
+    WEATHER UPDATE
 
     Due to the <a href="https://cdn.myocv.com/ocvapps/a98314424/files/69761f97dfc3c-no_unnecessary_travel_2026..pdf_1.png" target="_blank">Ontario County Sheriff's No Unnecessary Travel Notice</a>, all services are canceled today.
     
