@@ -17,5 +17,3 @@ If you serve with any of our Care Ministry teams:  _Stewards, Care Ministers, Vi
 Bring a favorite dish to share, grab a seat at the table, and enjoy a fun, relaxed time with others who serve in Care Ministry. This is a chance to laugh, connect, be encouraged, and take time to be celebrated for the care you give, with appreciation from our ministry team coordinators.
 
 **Come hungry! we'd love to see you there!**
-
-As we begin a new year of service, we welcome  **Becky B., Margie W., Melissa W., Nancy G., and Randy B.**  as they join the  **Board of Stewards**. We ask God's blessing over all our Stewards in 2026, that their service may be guided by wisdom and compassion as they care for and serve our church family.
