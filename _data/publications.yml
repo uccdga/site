@@ -176,3 +176,7 @@
   type: "bulletin"
 - date: "2026-01-25"
   type: "bulletin"
+- date: "2026-02-01"
+  type: "lamplighter"
+- date: "2026-02-01"
+  type: "bulletin"
