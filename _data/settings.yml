@@ -119,9 +119,8 @@ christmas:
   enable: false
 
 cancel:
-  enable: true
-  message: |
-    Weather Travel Advisory: In response to the Ontario County Sheriff's travel advisory, we will gather for one service only tomorrow at 11 AM. Please stay safe, and we'll see you then! (No early service or Sunday School)
+  enable: false
+  message: ""
 
 #-------------------------------
 # Recommended Section Settings
