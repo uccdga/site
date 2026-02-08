@@ -121,11 +121,7 @@ christmas:
 cancel:
   enable: false
   message: |
-    WEATHER UPDATE
-
-    Due to the <a href="https://cdn.myocv.com/ocvapps/a98314424/files/69761f97dfc3c-no_unnecessary_travel_2026..pdf_1.png" target="_blank">Ontario County Sheriff's No Unnecessary Travel Notice</a>, all services are canceled today.
-    
-    The Annual Meeting is postponed until next week, Sunday, February 1 following the late service.
+    Weather Travel Advisory: In response to the Ontario County Sheriff's travel advisory, we will gather for one service only tomorrow at 11 AM. Please stay safe, and we'll see you then! (No early service or Sunday School)
 
 #-------------------------------
 # Recommended Section Settings
