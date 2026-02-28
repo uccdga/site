@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Women's Retreat, A Day Well Shared'
+title: "Women's Retreat, A Day Well Shared"
 description:
 date: 2026-02-28
 author: christy
