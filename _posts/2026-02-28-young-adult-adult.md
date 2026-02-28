@@ -4,7 +4,7 @@ title: 'Young Adult & Adult March Update'
 description:
 date: 2026-02-28
 author: mark
-image: '/images/2026-02-28-young-adult-adult.png'
+image: '/images/2026-02-28-young-adult-adult.jpg'
 tags: [family, church-life]
 featured: false
 toc: false
