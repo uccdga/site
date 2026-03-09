@@ -3,7 +3,7 @@ layout: post
 title: "Sunday Service (Stuck No More)"
 date: 2026-03-08
 image: /images/video/2026-03-08.jpg
-author: mark
+author: wade
 video_embed: "P7XDHQLcZtA"
 tags: [video]
 ---
