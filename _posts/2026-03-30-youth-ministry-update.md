@@ -5,7 +5,7 @@ description:
 date: 2026-03-30
 author: mark
 image: '/images/2026-03-30-youth-update.jpg'
-tags: [family, care, missions, church-life, worship]
+tags: [church-life, worship]
 featured: false
 toc: false
 ---
