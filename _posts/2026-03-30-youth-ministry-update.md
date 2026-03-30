@@ -4,7 +4,7 @@ title: 'Youth Ministry April Update'
 description:
 date: 2026-03-30
 author: mark
-image: '/images/2026-03-30-youth-ministry-update.jpg'
+image: '/images/UC24_574.jpg'
 tags: [family, care, missions, church-life, worship]
 featured: false
 toc: false
