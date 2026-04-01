@@ -4,7 +4,7 @@ title: 'Young Adult & Adult April Update'
 description:
 date: 2026-03-31
 author: mark
-image: '/images/2026-03-31-young-adult-adult.jpg'
+image: '/images/UC24_123.jpg'
 tags: [family, church-life]
 featured: false
 toc: false
