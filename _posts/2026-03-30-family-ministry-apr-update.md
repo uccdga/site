@@ -30,7 +30,7 @@ It is  **campership season**! Our church believes that the Christian camp experi
 
 Rainforest Falls VBS: Exploring the Nature of God
 
-**_Registration is open_**
+**_Registration is open_** [(Click here to register)](https://uccdga.churchcenter.com/registrations/events/3468144)
 
 Kick-off: Sun., July 13, 2025 at 6:30pm
 
