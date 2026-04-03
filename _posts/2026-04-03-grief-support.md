@@ -10,7 +10,7 @@ featured: false
 toc: false
 ---
 
-While we do not currently offer a formal grief support group at The United Church, we want you to know that support is available in our wider Christian community. Crosswinds Wesleyan Church  offers a  **Grief Support Group**  for those walking through loss.
+While we do not currently offer a formal grief support group at The United Church, we want you to know that support is available in our wider Christian community. Crosswinds Wesleyan Church offers a  **Grief Support Group**  for those walking through loss.
 
 > "We have this hope as an anchor for the soul, firm and secure." -- Hebrews 6:19
 
