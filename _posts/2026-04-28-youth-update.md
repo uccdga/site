@@ -4,7 +4,7 @@ title: 'Youth Ministry May Update'
 description:
 date: 2026-04-28
 author: mark
-image: '/images/2026-04-28-youth-update.jpg'
+image: '/images/UC24_594.jpg'
 tags: [church-life, worship]
 featured: false
 toc: false
