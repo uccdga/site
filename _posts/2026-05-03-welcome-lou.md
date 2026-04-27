@@ -10,8 +10,4 @@ featured: false
 toc: false
 ---
 
-Don't you just love our church family!!!
-
-One of the great ways I got to meet and know so many of the lovely members of our church was by accepting a position on the Board of Stewards. The once/month meetings (except in summer) are joyous occasions, with each member happy to be there and share how they are answering Jesus' call to serve each other.
-
-Stewards take turns preparing Communion elements for church services; arranging greeters and offertory collectors; putting a rose in the front of church to share the joy of a new baby or grandbaby; sending greeting cards for special occasions; and - the best part - is we each have one or two senior companions from the church family that we get to know and love and spend fun time with. Each Fall we also have a luncheon for our senior companions where we all get together and have a wonderful time. Stewards is just ONE of the many joyful opportunities we have to strengthen the love and unity of our United Church family.  _-written by Gail B._
+The Board of Stewards welcomes Lou (Louis) V. to our Senior Companion Circle. He was born January 14, 1937 and married his high school sweetheart, Carolyn, September 19, 1959. They have three adult children, Barbara Lynn (who has gone home to be with our Lord), Keith Louis and Sheryl Lynn. Lou served in the US Army and was employed with the Long Island Lighting Company for 38 years. He and Carolyn have lived in Sayville NY, Wilmington and Winnabow NC before moving to Canandaigua, joining UCC four years ago. We are happy they chose UCC and look forward to getting to know Lou better as a new Senior Companion. ~written by Steward Leslie R.
