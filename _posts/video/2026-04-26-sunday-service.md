@@ -3,7 +3,7 @@ layout: post
 title: "Sunday Service (The Voice You Know)"
 date: 2026-04-26
 image: /images/video/2026-04-26.jpg
-author: mark
+author: wade
 video_embed: "6hbaOyPcbUM"
 tags: [video]
 ---
