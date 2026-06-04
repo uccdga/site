@@ -7,12 +7,13 @@ image:
 image_caption:
 ---
 
-[The Fellowship Community](https://www.fellowship.community) is a network of evangelical Presbyterian leaders within the PCUSA, founded in 2011. With over 9,600 leaders connected across 8 regional hubs, it exists to encourage and support those who feel increasingly isolated within their denomination.
+[The Fellowship Community](https://www.fellowship.community) (TFC) is a network of Gospel-centered congregations within the Presbyterian Church (U.S.A.). It exists not to replace the denomination, but to provide a place of support, encouragement, and shared theological grounding for churches who want to hold firmly to the historic Christian faith. TFC member churches gather regularly to worship together, pray together, and think together about what faithful ministry looks like in a changing world. 
 
-The Fellowship Community is built around three core values:
+The Fellowship Community has also produced a document called the [Essential Tenets](https://static1.squarespace.com/static/668ea336ae58a26425de3592/t/66de14765da7932f848a4d40/1725830262465/The-Essential-Tenets1.pdf), which gives voice to the convictions these churches share: the full authority of Scripture, the Trinity, the person and work of Jesus Christ, and the good news of redemption through faith in him alone.
 
-- **Missional** — Demonstrating God's Kingdom and inviting others to follow Jesus
-- **Relational** — Standing together in friendship through the challenges of ministry
-- **Evangelical** — Believing in the centrality of Christ's cross, sharing the gospel, valuing Scripture, and serving those in need
+For a congregation like ours, rooted in both the Baptist and Presbyterian traditions, TFC offers something important: a community of like-minded churches who share our convictions and our commitment to the Gospel. We are not alone in navigating the complexities of church life in this moment. 
 
-Members connect through an annual national gathering, regional meetings throughout the year, mission affinity groups for peer support, and shared resources including blog posts, devotionals, and ministry guides.
+The articles below were originally published in our newsletter, the Lamplighter, and are offered as a resource for anyone who wants to understand more about who we are, what we believe, and why our connection to The Fellowship Community matters for the life and future of The United Church. 
+
+These articles are being published in installments over the coming months, so check back as new articles are added. No articles available yet.
+
