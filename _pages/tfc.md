@@ -1,9 +1,9 @@
 ---
 layout: page
 title: The Fellowship Community
-description:
+description: "What is The Fellowship Community?"
 permalink: /tfc/
-image:
+image: /images/tfc.jpg
 image_caption:
 ---
 
