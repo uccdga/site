@@ -39,6 +39,8 @@ menu_settings:
         title: "Building"
       - url: "/organ/"
         title: "Organ"
+      - url: "/tfc/"
+        title: "TFC"
     - title: "Ministries"
       submenu:
         - url: "/family/"
