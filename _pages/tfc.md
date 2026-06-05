@@ -15,5 +15,14 @@ For a congregation like ours, rooted in both the Baptist and Presbyterian tradit
 
 The articles below were originally published in our newsletter, the Lamplighter, and are offered as a resource for anyone who wants to understand more about who we are, what we believe, and why our connection to The Fellowship Community matters for the life and future of The United Church. 
 
-These articles are being published in installments over the coming months, so check back as new articles are added. No articles available yet.
+These articles are being published in installments over the coming months, so check back as new articles are added.
+
+{% assign tfc_posts = site.posts | where_exp: "post", "post.tags contains 'TFC'" | sort: "date" %}
+{% if tfc_posts.size > 0 %}
+{% for post in tfc_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+{% endfor %}
+{% else %}
+No articles available at this time.
+{% endif %}
 
