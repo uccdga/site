@@ -4,7 +4,7 @@ title: 'Youth Ministry July/August Update'
 description:
 date: 2026-06-29
 author: mark
-image: '/images/2026-06-29-youth-ministry.jpg'
+image: '/images/2026-06-29-youth-ministry.png'
 tags: [church-life, worship]
 featured: false
 toc: false
