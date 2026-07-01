@@ -54,8 +54,7 @@ Anna (Aug 9-14)
 July 2 at 2-2:30pm \
 July 8 at 7-8:30pm
 
-**Planting Hope!**  As part of  **Rainforest Falls VBS**, our church will participate in  **Operation Kid-to-Kid**. This  **missions project**  gives kids the chance to bring  **hope**  and  **food**  to  **kids in Central America**. In some Central American villages, children go to bed without enough to eat, and parents struggle to provide healthy meals. Without key nutrients like vitamin C, kids face sickness, weakened immune  
-systems, and even long-term health problems.
+**Planting Hope!**  As part of  **Rainforest Falls VBS**, our church will participate in  **Operation Kid-to-Kid**. This  **missions project**  gives kids the chance to bring  **hope**  and  **food**  to  **kids in Central America**. In some Central American villages, children go to bed without enough to eat, and parents struggle to provide healthy meals. Without key nutrients like vitamin C, kids face sickness, weakened immune systems, and even long-term health problems.
 
 We can change that! We’ll join thousands of children in partnership with World Vision, raising money to provide a simple, powerful solution: fruit trees. Fruit trees like oranges, bananas, mangoes, and papayas provide sweet, nutritious food kids love. These trees don’t just  **feed a family**—they also give parents a way to  **earn income**  and even  **bless their neighbors**  by sharing seedlings. Plus, planting trees  **protects the land from erosion and flooding**! This helps communities during seasons of heavy rain.
 
