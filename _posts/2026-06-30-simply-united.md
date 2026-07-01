@@ -5,7 +5,7 @@ description:
 date: 2026-06-30
 author: wade
 image: '/images/2026-06-30-simply-united.jpg'
-tags: [tfc]
+tags: [TFC]
 featured: false
 toc: false
 ---
