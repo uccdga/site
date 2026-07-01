@@ -14,18 +14,18 @@ toc: false
 
 **LeTourneau campers**
 
-Jamie C - July 6-10, Puddle Jumpers
-Joy C - July 20-24, Kingdom Conquest (overnight)
-Sydney C - July 20-24, Kingdom Conquest (overnight)
-Kailynn S - July 20-24, Kingdom Conquest (overnight)
-Sam Q - July 27-31, Knights and Riders
-David Q - July 27-31, Knights and Riders
-Jesse C - Aug 3-7, Wacky Water Camp
-Wyatt P - Aug 3-7, Wacky Water Camp
-Levi A - Aug 17-21, Battlezone Camp
-Lizzie A - Aug 17-21, Battlezone Camp
-Asher A - Aug 17-21, Battlezone Camp
-Graham B - Aug 17-21, Battlezone Camp
+Jamie C - July 6-10, Puddle Jumpers \
+Joy C - July 20-24, Kingdom Conquest (overnight) \
+Sydney C - July 20-24, Kingdom Conquest (overnight) \
+Kailynn S - July 20-24, Kingdom Conquest (overnight) \
+Sam Q - July 27-31, Knights and Riders \
+David Q - July 27-31, Knights and Riders \
+Jesse C - Aug 3-7, Wacky Water Camp \
+Wyatt P - Aug 3-7, Wacky Water Camp \
+Levi A - Aug 17-21, Battlezone Camp \
+Lizzie A - Aug 17-21, Battlezone Camp \
+Asher A - Aug 17-21, Battlezone Camp \
+Graham B - Aug 17-21, Battlezone Camp \
 Carter S - Aug 17-21, Battlezone Camp
 
 **Miracle Mountain Ranch campers**
@@ -34,15 +34,15 @@ Jules C (July 5-10)
 
 **Beaver Camp campers**
 
-Eva (July 5-10)
-Paige (July 19-24)
-Sophie (July 19-24)
-Elise (Aug 2-7)
-Adele (Aug 2-7)
-Isaiah (Aug 2-7)
-Josiah (Aug 2-7)
-Lily (Aug 9-14)
-Amelia (Aug 9-14)
+Eva (July 5-10) \
+Paige (July 19-24) \
+Sophie (July 19-24) \
+Elise (Aug 2-7) \
+Adele (Aug 2-7) \
+Isaiah (Aug 2-7) \
+Josiah (Aug 2-7) \
+Lily (Aug 9-14) \
+Amelia (Aug 9-14) \
 Anna (Aug 9-14)
 
 **Want to connect with a camper?**  We have  **“camp notes”**  available in the Welcome Center  **for every camper**. Inside every specially made card, there is a note describing the camper and a note telling when the camp note needs to be mailed to arrive on time. **If you are interested/willing to write a note to a camper, please pick up a card.**  They are addressed and stamped, so all you need to do is write a note and send it at the correct time. Any questions? Please contact Sarah G.
@@ -51,7 +51,7 @@ Anna (Aug 9-14)
 
 **Rainforest Falls VBS**: Attention VBS volunteers: crew leaders, crew helpers, station leaders, station helpers, and nursery care. Please mark your calendar for our  **Rainforest Falls VBS training**. Choose  **one**  of the following  **_mandatory_**  trainings to attend:
 
-July 2 at 2-2:30pm 
+July 2 at 2-2:30pm \
 July 8 at 7-8:30pm
 
 **Planting Hope!**  As part of  **Rainforest Falls VBS**, our church will participate in  **Operation Kid-to-Kid**. This  **missions project**  gives kids the chance to bring  **hope**  and  **food**  to  **kids in Central America**. In some Central American villages, children go to bed without enough to eat, and parents struggle to provide healthy meals. Without key nutrients like vitamin C, kids face sickness, weakened immune  
