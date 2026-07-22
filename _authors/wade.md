@@ -5,8 +5,8 @@ image: '/images/staff/wade-allen.jpg'
 position: Pastor
 order: 1
 website: https://wadeallen.me
+twitter: 
 facebook: https://www.facebook.com/wadesallen
-twitter: https://x.com/wadeallen
 instagram: https://www.instagram.com/wadechristy
 pinterest:
 mastodon:
