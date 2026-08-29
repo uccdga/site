@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Family Ministry July/August Update'
+title: 'Family Ministry September Update'
 description:
 date: 2026-08-30
 author: deb
