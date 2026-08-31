@@ -53,3 +53,5 @@ That is a complicated identity. But it is an honest one. And it is worth celebra
 I'm grateful to have been in Indianapolis among this community. And I am grateful to come home to you to serve alongside you in the work of the Kingdom of God.
 
 Wade
+
+This article is part of an ongoing series on The United Church and our denominational connections, including The Fellowship Community. Installments are posted at [uccdga.org/tfc](https://uccdga.org/tfc).
