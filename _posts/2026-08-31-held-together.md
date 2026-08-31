@@ -46,4 +46,6 @@ We need to know what we believe. Not so we can win arguments. But so we can hold
 
 The Fellowship Community helps us do that. In the months ahead I will share more about what TFC is and why our connection to them matters. But for now, it is enough to state: we know what we believe. Churches across the country are holding these same convictions. We are not alone.
 
+This article is part of an ongoing series on The United Church and our denominational connections, including The Fellowship Community. Installments are posted at [uccdga.org/tfc](https://uccdga.org/tfc).
+
 Wade
