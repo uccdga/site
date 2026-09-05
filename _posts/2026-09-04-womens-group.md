@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intergenerational Women's Group'
+title: 'Intergenerational Women’s Group'
 description:
 date: 2026-09-04
 author: christy
