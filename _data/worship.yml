@@ -1,0 +1,28 @@
+#-------------------------------
+# Worship Times — single source of truth
+#
+# This is the ONE place to update when our Sunday schedule changes
+# (twice a year, around Memorial Day and Labor Day). Every page that
+# shows a service time pulls from here via _includes/worship-time.html.
+#
+# To switch schedules, change `current` below to either:
+#   two       - fall/winter/spring: two services (8:45 AM & 11:00 AM)
+#   combined  - summer: one combined service (9:30 AM)
+#
+# Typical switch dates:
+#   - Sunday after Labor Day  -> set current: two
+#   - Memorial Day weekend    -> set current: combined
+#-------------------------------
+current: two
+
+two:
+  short: "8:45 & 11:00 AM"
+  full: "8:45 AM and 11:00 AM"
+  sentence: "Join us for worship at 8:45 AM or 11:00 AM each Sunday"
+  subtitle: "Sunday Services at 8:45 AM & 11:00 AM"
+
+combined:
+  short: "9:30 AM"
+  full: "9:30 AM"
+  sentence: "Join us for our combined worship service at 9:30 AM each Sunday"
+  subtitle: "Sunday Service at 9:30 AM"

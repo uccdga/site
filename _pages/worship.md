@@ -8,6 +8,8 @@ image: /images/UC24_266.jpg
 buttons: video
 ---
 
+**This week:** {% include worship-time.html format="sentence" %}. See our [About page](/about/) for the full year-round schedule.
+
 ## Worship Planning Team
 
 The Worship Planning Team oversees the coordination and execution of worship services, including:

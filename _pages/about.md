@@ -18,6 +18,8 @@ We are a united community of faith affiliated with two denominations—Presbyter
 
 ![Sunday School](/images/UC24_153.jpg)
 
+**This week:** {% include worship-time.html format="sentence" %}.
+
 We hold two services every Sunday:
 - **8:45 am** and **11:00 am** (from the Sunday after Labor Day until the Sunday before Memorial Day)
 - **9:30 am** (from Memorial Day weekend through Labor Day weekend)

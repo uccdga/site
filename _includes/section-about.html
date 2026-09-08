@@ -17,7 +17,7 @@
             <h2 class="about__title">{{ site.data.settings.about.about_title }}</h2>
             {% endif %}
             {% if site.data.settings.about.about_subtitle %}
-            <p class="about__subtitle">{{ site.data.settings.about.about_subtitle }}</p>
+            <p class="about__subtitle">{% include worship-time.html format="subtitle" %}</p>
             {% endif %}
             {% if site.data.settings.about.about_description %}
             <div class="about__description">

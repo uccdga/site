@@ -1,0 +1,12 @@
+{%- comment -%}
+  Renders the current Sunday worship time, driven entirely by _data/worship.yml.
+  Usage: {% include worship-time.html format="short|full|sentence|subtitle" %}
+  Defaults to "full" when no format is given.
+{%- endcomment -%}
+{%- assign schedule = site.data.worship[site.data.worship.current] -%}
+{%- case include.format -%}
+  {%- when "short" -%}{{ schedule.short }}
+  {%- when "sentence" -%}{{ schedule.sentence }}
+  {%- when "subtitle" -%}{{ schedule.subtitle }}
+  {%- else -%}{{ schedule.full }}
+{%- endcase -%}
