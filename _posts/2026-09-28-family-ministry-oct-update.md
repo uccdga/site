@@ -63,4 +63,4 @@ Please bring your donations to Deb’s office. Items need to be donated **_by No
 Important dates…
 
 **Sunday**, **October 4 -** During both services: Dedicate LOGOS volunteers  
-**Wednesday, October 7** - Youth Club begins! (Register online by Sept 30th)
+**Wednesday, October 7** - Youth Club begins! ([Register online](https://uccdga.churchcenter.com/registrations/events/3871551) by Sept 30th)
