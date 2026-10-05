@@ -4,7 +4,7 @@ title: 'From Our History'
 description:
 date: 2026-10-02
 author: wade
-image: '/images/UC24_147.jpg'
+image: '/images/UC24_346.jpg'
 tags: [worship]
 featured: false
 toc: false
