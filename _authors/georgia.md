@@ -3,6 +3,7 @@ username: georgia
 name: Georgia Sperano
 image: '/images/staff/georgia-sperano.jpg'
 position: Choir Director
+show_on_staff_page: true
 order: 9
 website:
 facebook: 
