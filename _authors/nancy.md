@@ -2,6 +2,7 @@
 username: nancy
 name: Nancy Lamberson
 image: '/images/staff/nancy-lamberson.jpg'
+show_on_staff_page: true
 position: Treasurer
 order: 6
 website:
