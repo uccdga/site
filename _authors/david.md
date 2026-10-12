@@ -3,6 +3,7 @@ username: david
 name: David Kraft
 image: '/images/staff/david-kraft.jpg'
 position: Organist
+show_on_staff_page: true
 order: 8
 website:
 facebook: 
