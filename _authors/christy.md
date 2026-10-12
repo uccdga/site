@@ -3,6 +3,7 @@ username: christy
 name: Christy Allen
 image: '/images/staff/christy-allen.jpg'
 position: Director of Care Ministry
+show_on_staff_page: true
 order: 4
 website:
 facebook: 
