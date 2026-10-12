@@ -3,6 +3,7 @@ username: carolyn
 name: Carolyn Russell
 image: '/images/staff/carolyn-russell.jpg'
 position: Office Manager
+show_on_staff_page: true
 order: 5
 website:
 facebook: 
