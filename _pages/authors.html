@@ -41,7 +41,7 @@ image:
   <div class="container">
     <div class="section__inner">
       <div class="row">
-        {% assign sorted_authors = site.authors | sort: 'order' %}
+        {% assign sorted_authors = site.authors | where: "show_on_staff_page", true | sort: "order" %}
         {% for author in sorted_authors %}
         <div class="col col-4 col-w-6 col-t-12">
           <div class="authors__info">
