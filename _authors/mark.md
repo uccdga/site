@@ -3,6 +3,7 @@ username: mark
 name: Mark Slomski
 image: '/images/staff/mark-slomski.jpg'
 position: Pastor of Youth and Adult Ministry
+show_on_staff_page: true
 order: 2
 website:
 facebook: 
