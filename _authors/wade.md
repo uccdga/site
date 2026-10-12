@@ -3,6 +3,7 @@ username: wade
 name: Wade Allen
 image: '/images/staff/wade-allen.jpg'
 position: Pastor
+show_on_staff_page: true
 order: 1
 website: https://wadeallen.me
 twitter: 
