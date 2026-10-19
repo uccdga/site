@@ -3,7 +3,7 @@ layout: post
 title: "Sunday Service (A Work in Progress)"
 date: 2026-10-18
 image: /images/video/2026-10-18.jpg
-author: lauren
+author: wade
 video_embed: "MSLmfRQUBvw"
 tags: [video]
 ---
