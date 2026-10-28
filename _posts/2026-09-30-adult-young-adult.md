@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Young Adult & Adult September Update'
+title: 'Young Adult & Adult October Update'
 description:
 date: 2026-09-30
 author: mark
