@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why We're Still Here'
+title: "Why We're Still Here"
 description:
 date: 2026-10-30
 author: wade
