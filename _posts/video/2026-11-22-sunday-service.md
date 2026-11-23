@@ -8,4 +8,4 @@ video_embed: "QdIP3DLg8Jo"
 tags: [video]
 ---
 
-This sermon walks through Zechariah 12-13 in four movements: God defending Jerusalem, the nation mourning the one they pierced, a fountain opened to cleanse idolatry and false prophecy, and God's own shepherd struck so his people can be refined and truly his. It's a hard, image-dense passage that the New Testament writers read directly onto the cross, and it closes by inviting the congregation to receive what Christ secured through his own piercing.
+Where is God when the world is broken? The last chapter of Zechariah answers that he is coming, as King over the whole earth. This sermon closes the Zechariah section of the series on Christ the King Sunday, gathering the book's themes of return, presence, the pierced shepherd and the coming King, and hands off to Advent and Malachi.
