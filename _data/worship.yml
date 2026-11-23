@@ -8,10 +8,13 @@
 # To switch schedules, change `current` below to either:
 #   two       - fall/winter/spring: two services (8:45 AM & 11:00 AM)
 #   combined  - summer: one combined service (9:30 AM)
+#   christmas - last two Sundays of December: one service (11:00 AM)
 #
 # Typical switch dates:
 #   - Sunday after Labor Day  -> set current: two
 #   - Memorial Day weekend    -> set current: combined
+#   - Monday before the 11 AM-only Sundays (mid-December) -> set current: christmas
+#   - January 1               -> set current: two
 #-------------------------------
 current: two
 
@@ -26,3 +29,9 @@ combined:
   full: "9:30 AM"
   sentence: "Join us for our combined worship service at 9:30 AM each Sunday"
   subtitle: "Sunday Service at 9:30 AM"
+
+christmas:
+  short: "11:00 AM"
+  full: "11:00 AM"
+  sentence: "Join us for our combined worship service at 11:00 AM each Sunday"
+  subtitle: "Sunday Service at 11:00 AM"

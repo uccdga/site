@@ -110,3 +110,47 @@
     background: var(--background-alt-color);
   }
 }
+/* Holiday Services box (section-christmas.html): smaller text than the theme default */
+.subscribe__inner.holiday-box {
+  padding: 32px 36px;
+
+  .subscribe__title {
+    margin-bottom: 12px;
+    font-size: 36px;
+  }
+
+  .subscribe__description {
+    margin-bottom: 6px;
+    font-size: 20px;
+  }
+
+  @media (max-width: $desktop) {
+    padding: 28px 32px;
+
+    .subscribe__title {
+      font-size: 30px;
+    }
+
+    .subscribe__description {
+      font-size: 18px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    padding: 24px;
+
+    .subscribe__title {
+      margin-bottom: 12px;
+      font-size: 26px;
+    }
+
+    .subscribe__description {
+      margin-bottom: 6px;
+      font-size: inherit;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    padding: 20px;
+  }
+}

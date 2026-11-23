@@ -1,0 +1,59 @@
+diff --git a/_data/settings.yml b/_data/settings.yml
+index 09e92d4..e50812d 100644
+--- a/_data/settings.yml
++++ b/_data/settings.yml
+@@ -121,7 +121,7 @@ blog:
+ #-------------------------------
+ # Christmas Section Settings (edit in _includes/section-christmas.html)
+ christmas:
+-  enable: false
++  enable: true
+ 
+ cancel:
+   enable: false
+diff --git a/_data/worship.yml b/_data/worship.yml
+index b4badf4..8d43766 100644
+--- a/_data/worship.yml
++++ b/_data/worship.yml
+@@ -8,10 +8,13 @@
+ # To switch schedules, change `current` below to either:
+ #   two       - fall/winter/spring: two services (8:45 AM & 11:00 AM)
+ #   combined  - summer: one combined service (9:30 AM)
++#   christmas - last two Sundays of December: one service (11:00 AM)
+ #
+ # Typical switch dates:
+ #   - Sunday after Labor Day  -> set current: two
+ #   - Memorial Day weekend    -> set current: combined
++#   - Monday before the 11 AM-only Sundays (mid-December) -> set current: christmas
++#   - January 1               -> set current: two
+ #-------------------------------
+ current: two
+ 
+@@ -26,3 +29,9 @@ combined:
+   full: "9:30 AM"
+   sentence: "Join us for our combined worship service at 9:30 AM each Sunday"
+   subtitle: "Sunday Service at 9:30 AM"
++
++christmas:
++  short: "11:00 AM"
++  full: "11:00 AM"
++  sentence: "Join us for our combined worship service at 11:00 AM each Sunday"
++  subtitle: "Sunday Service at 11:00 AM"
+diff --git a/_includes/section-christmas.html b/_includes/section-christmas.html
+index 32e5529..ff7ab3f 100644
+--- a/_includes/section-christmas.html
++++ b/_includes/section-christmas.html
+@@ -9,10 +9,9 @@
+           <div class="subscribe__content"></div>
+           <h3 class="subscribe__title">Holiday Services</h3>
+ 
+-          <p class="subscribe__description"><b>December 14</b>: Children's Christmas Pageant 10 AM (between 8:45 and 11 AM Service)</p>
+-          	<p class="subscribe__description"><b>December 21</b>: Christmas Cantata combined service 11 AM (no 8:45 AM service)</p>
+-            <p class="subscribe__description"><b>December 24</b>: Christmas Eve Service 7 PM</p>
+-            <p class="subscribe__description"><b>December 28</b>: New Year Prayer Service combined service 11 AM (no 8:45 AM service)</p>
++          <p class="subscribe__description"><b>December 20</b>: One service at 11 AM (no 8:45 AM service)</p>
++          <p class="subscribe__description"><b>December 24</b>: Christmas Eve Candlelight Communion Service 7 PM</p>
++          <p class="subscribe__description"><b>December 27</b>: One service at 11 AM (no 8:45 AM service)</p>
+           </div>
+         </div>
+       </div>
